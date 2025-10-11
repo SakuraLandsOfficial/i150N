@@ -5,5 +5,81 @@
             "en": "Chinese Traditional (Taiwan; Mandarin)",
             "ingame": "繁體中文 (台灣)"
         }
+    },
+    "general": {
+        "name": "櫻花境地",
+        "pages": {
+            "home": "首頁",
+            "rules": "伺服器規則",
+            "docs": "文檔",
+            "vote": "投票",
+            "store": "商店",
+            "licenseandopensource": "許可與開源"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev。版權所有。",
+                "sakuralands": "© 2022-2025 櫻花境地。版權所有。"
+            },
+            "non-mojang": "非Minecraft官方產品。未經Mojang認可或與其有任何關聯。"
+        }
+    },
+    "index": {
+        "general": {
+            "description": "一個正在開發中的小遊戲Minecraft伺服器。"
+        },
+        "module": {
+            "scroll_down": "向下滾動",
+            "menu": "選單"
+        },
+        "section1": {
+            "title": "歡迎加入櫻花境地！",
+            "content": [
+                "與來自世界各地的朋友一起遊玩。",
+                "加入史詩般的迷你遊戲、冒險和更多內容！"
+            ]
+        },
+        "section2": {
+            "title": "多語言支援！",
+            "content": [
+                "歡迎來自世界各地的玩家。",
+                "我們的社群支持多種語言，你總是可以找到一起玩的朋友。"
+            ],
+            "warning": "* 部分語言為機器翻譯，可能不準確。"
+        },
+        "section3": {
+            "title": "多種小遊戲！",
+            "content": [
+                "暢玩豐富多彩的迷你遊戲：跑酷、空戰、寢宮大戰、逃出迷宮等等。",
+                "總有新鮮事等你來試試！"
+            ]
+        },
+        "section4": {
+            "title": "安全！",
+            "content": [
+                "我們注重公平競爭和玩家安全。",
+                "我們友善的工作人員確保你的體驗安全又有趣。"
+            ]
+        },
+        "section5": {
+            "title": "現在就開始玩！",
+            "content": "加入我們，體驗櫻花境地的樂趣！",
+            "button1": "如何加入",
+            "button2": "伺服器規則"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "開源 💖",
+            "及",
+            "證書 🛂"
+        ],
+        "scope": [
+            "網頁設計",
+            "程式庫",
+            "圖標",
+            "向量"
+        ],
+        "usedin": "使用在："
     }
 }
