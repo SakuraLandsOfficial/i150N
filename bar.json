@@ -1,0 +1,9 @@
+{
+    "_COMMON": {
+        "code": "bar",
+        "name": {
+            "en": "Bavarian",
+            "ingame": "Boarisch (Bayern)"
+        }
+    }
+}
