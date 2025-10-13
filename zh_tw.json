@@ -12,9 +12,11 @@
             "home": "首頁",
             "rules": "伺服器規則",
             "docs": "文檔",
-            "vote": "投票",
-            "store": "商店",
+            "how2join": "如何加入",
             "licenseandopensource": "許可與開源"
+        },
+        "module": {
+            "menu": "選單"
         },
         "footer": {
             "copyright": {
@@ -26,11 +28,10 @@
     },
     "index": {
         "general": {
-            "description": "一個正在開發中的小遊戲Minecraft伺服器。"
+            "description": "一個正在開發中的Minecraft小遊戲伺服器。"
         },
         "module": {
-            "scroll_down": "向下滾動",
-            "menu": "選單"
+            "scroll_down": "向下滾動"
         },
         "section1": {
             "title": "歡迎加入櫻花境地！",
@@ -50,7 +51,7 @@
         "section3": {
             "title": "多種小遊戲！",
             "content": [
-                "暢玩豐富多彩的迷你遊戲：跑酷、空戰、寢宮大戰、逃出迷宮等等。",
+                "暢玩豐富多彩的迷你遊戲：跑酷、空中之戰、床戰、逃出迷宮等等。",
                 "總有新鮮事等你來試試！"
             ]
         },
