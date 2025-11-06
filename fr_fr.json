@@ -5,5 +5,82 @@
             "en": "European French",
             "ingame": "Français (France)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Accueil",
+            "rules": "Règles du serveur",
+            "docs": "Documentation",
+            "how2join": "Comment rejoindre",
+            "licenseandopensource": "Licence et Open Source"
+        },
+        "module": {
+            "menu": "Menu"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Tous droits réservés.",
+                "sakuralands": "© 2022-2025 SakuraLands. Tous droits réservés."
+            },
+            "non-mojang": "Ce n'est pas un produit officiel de Minecraft. Non approuvé par ou associé à Mojang."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Un serveur de mini-jeux Minecraft en développement."
+        },
+        "module": {
+            "scroll_down": "Faire défiler vers le bas"
+        },
+        "section1": {
+            "title": "Bienvenue sur SakuraLands !",
+            "content": [
+                "Jouez avec des amis du monde entier.",
+                "Rejoignez des mini-jeux épiques, des aventures et bien plus encore !"
+            ]
+        },
+        "section2": {
+            "title": "Support multilingue !",
+            "content": [
+                "Bienvenue aux joueurs du monde entier.",
+                "Notre communauté prend en charge plusieurs langues, vous pourrez toujours trouver des amis avec qui jouer."
+            ],
+            "warning": "* Certaines langues sont traduites par machine et peuvent être inexactes."
+        },
+        "section3": {
+            "title": "Plusieurs mini-jeux !",
+            "content": [
+                "Jouez à des mini-jeux colorés : Parkour, Skywars, Bedwars, Évasion du labyrinthe, et bien plus encore.",
+                "Il y a toujours quelque chose de nouveau à essayer !"
+            ]
+        },
+        "section4": {
+            "title": "Sécurité !",
+            "content": [
+                "Nous nous engageons pour le fair-play et la sécurité des joueurs.",
+                "Notre personnel amical assure une expérience sûre et amusante."
+            ]
+        },
+        "section5": {
+            "title": "Commencez à jouer maintenant !",
+            "content": "Rejoignez-nous et découvrez le plaisir de SakuraLands !",
+            "button1": "Comment rejoindre",
+            "button2": "Règles du serveur"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Open Source 💖",
+            "et",
+            "Certificats 🛂"
+        ],
+        "scope": [
+            "Conception web",
+            "Bibliothèques",
+            "Icônes",
+            "Vectoriels"
+        ],
+        "usedin": "Utilisé dans :"
     }
 }

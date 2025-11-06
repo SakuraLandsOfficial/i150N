@@ -5,5 +5,82 @@
             "en": "Asturian",
             "ingame": "Asturianu (Asturies)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Páxina principal",
+            "rules": "Regles del servidor",
+            "docs": "Documentación",
+            "how2join": "Cómo xunise",
+            "licenseandopensource": "Llicencia y códigu abiertu"
+        },
+        "module": {
+            "menu": "Menú"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Toos los derechos reservaos.",
+                "sakuralands": "© 2022-2025 SakuraLands. Toos los derechos reservaos."
+            },
+            "non-mojang": "Nun ye un productu oficial de Minecraft. Nun ta avaláu nin asociáu con Mojang."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Un servidor de minixuegos de Minecraft en desenvolvimientu."
+        },
+        "module": {
+            "scroll_down": "Escontra baxo"
+        },
+        "section1": {
+            "title": "¡Bienveníu a SakuraLands!",
+            "content": [
+                "Xuega con amigos de tol mundu.",
+                "¡Xúntate a minixuegos épicos, aventures y muncho más!"
+            ]
+        },
+        "section2": {
+            "title": "¡Soporte multillingüe!",
+            "content": [
+                "Bienveníos xugadores de tol mundu.",
+                "La nuesa comunidá sofita dellos idiomes, y siempre vas atopar amigos colos que xugar."
+            ],
+            "warning": "* Dellos idiomes tán traducíos por máquina y pueden ser imprecisos."
+        },
+        "section3": {
+            "title": "¡Munchos minixuegos!",
+            "content": [
+                "Esfruta de munchos minixuegos: parkour, batalles aérees, bedwars, escapar del llaberintu y enforma más.",
+                "¡Siempre hai daqué nuevu pa probar!"
+            ]
+        },
+        "section4": {
+            "title": "¡Seguridá!",
+            "content": [
+                "Damos prioridá al xuegu llimpiu y a la seguridá de los xugadores.",
+                "El nuesu personal amistosu garantiza una esperiencia segura y prestosa."
+            ]
+        },
+        "section5": {
+            "title": "¡Empieza a xugar agora!",
+            "content": "¡Xúntate a nós y esperimenta la diversión de SakuraLands!",
+            "button1": "Cómo xunise",
+            "button2": "Regles del servidor"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Códigu abiertu 💖",
+            "y",
+            "Certificados 🛂"
+        ],
+        "scope": [
+            "Diseñu web",
+            "Biblioteques",
+            "Iconos",
+            "Vectores"
+        ],
+        "usedin": "Usáu en:"
     }
 }

@@ -5,5 +5,82 @@
             "en": "Breton",
             "ingame": "Brezhoneg (Breizh)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Degemer",
+            "rules": "Reolennoù",
+            "docs": "Teuliadoù",
+            "how2join": "Penaos emellañ",
+            "licenseandopensource": "Mammennoù Digor hag Aotreoù"
+        },
+        "module": {
+            "menu": "ROLL-DIBAB"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Holl wirioù miret.",
+                "sakuralands": "© 2022-2025 SakuraLands. Holl wirioù miret."
+            },
+            "non-mojang": "N'EO KET UR PRODU OFISIEL EUS MINECRAFT. N'EO KET APROUET PE STAG OUH MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Servijer c'hoarioù bihan e diorren"
+        },
+        "module": {
+            "scroll_down": "Rollit war-du an traoñ"
+        },
+        "section1": {
+            "title": "Degemer mat da SakuraLands !",
+            "content": [
+                "C'hoari gant mignoned eus ar bed a-bezh.",
+                "Emellit e c'hoarioù bihan dispar, avanturioù ha muioc'h c'hoazh !"
+            ]
+        },
+        "section2": {
+            "title": "Liesyezhek !",
+            "content": [
+                "Degemer mat d'ar c'hoarierien eus ar bed a-bezh.",
+                "Sikouret e vez meur a yezh gant hor c'hevredigezh, setu e kavfet atav tud da c'hoari ganeoc'h."
+            ],
+            "warning": "* Yezhoù zo zo troet gant ar mekanik ha marteze n'int ket reizh."
+        },
+        "section3": {
+            "title": "Meur a c'hoari bihan !",
+            "content": [
+                "Plijadur gant ur bern c'hoarioù bihan liesseurt : parkour, skywars, bedwars, tec'hel eus ar maze, ha muioc'h c'hoazh.",
+                "Bez' zo atav traoù nevez da glask !"
+            ]
+        },
+        "section4": {
+            "title": "Surentez !",
+            "content": [
+                "Ober a reomp war-dro ar c'hoari reizh ha surentez ar c'hoarierien.",
+                "Hor skipailh mignonek a labour evit ma vefe ho c'hoari su ha plijus."
+            ]
+        },
+        "section5": {
+            "title": "Krogit da c'hoari bremañ !",
+            "content": "Emellit er servijer hiziv an deiz.",
+            "button1": "Penaos emellañ",
+            "button2": "Reolennoù ar Servijer"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Mammennoù Digor 💖",
+            "&",
+            "Aotreoù 🛂"
+        ],
+        "scope": [
+            "Design ar Gouelioù",
+            "Levraouegoù",
+            "Skeudennoù",
+            "Vektorel"
+        ],
+        "usedin": "Implijet e :"
     }
 }

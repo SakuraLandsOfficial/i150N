@@ -5,5 +5,82 @@
             "en": "Bosnian",
             "ingame": "Bosanski (Bosna i Hercegovina)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Početna",
+            "rules": "Pravila servera",
+            "docs": "Dokumentacija",
+            "how2join": "Kako se pridružiti",
+            "licenseandopensource": "Open source i licence"
+        },
+        "module": {
+            "menu": "Meni"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Sva prava zadržana.",
+                "sakuralands": "© 2022-2025 SakuraLands. Sva prava zadržana."
+            },
+            "non-mojang": "Nije zvanični Minecraft proizvod. Nije odobren od strane ili povezan sa Mojang-om."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-igra server u razvoju."
+        },
+        "module": {
+            "scroll_down": "Skrolujte dole"
+        },
+        "section1": {
+            "title": "Dobrodošli u SakuraLands!",
+            "content": [
+                "Igrajte sa prijateljima iz cijelog svijeta.",
+                "Pridružite se epskim mini-igrama, avanturama i još mnogo toga!"
+            ]
+        },
+        "section2": {
+            "title": "Višejezična podrška!",
+            "content": [
+                "Dobrodošli igrači iz cijelog svijeta.",
+                "Naša zajednica podržava više jezika, uvijek možete pronaći prijatelje za igru."
+            ],
+            "warning": "* Neke riječi su mašinski prevedene i možda nisu tačne."
+        },
+        "section3": {
+            "title": "Razne mini-igre!",
+            "content": [
+                "Igrajte razne mini-igre: parkour, SkyWars, Bed Wars, Escape the Maze, i još mnogo toga.",
+                "Uvijek ima nešto novo za isprobati!"
+            ]
+        },
+        "section4": {
+            "title": "Sigurnost!",
+            "content": [
+                "Posvećeni smo fer igri i sigurnosti igrača.",
+                "Naše ljubazno osoblje osigurava da vaše iskustvo bude sigurno i zabavno."
+            ]
+        },
+        "section5": {
+            "title": "Počnite igrati odmah!",
+            "content": "Pridružite se serveru danas.",
+            "button1": "Kako se pridružiti",
+            "button2": "Pravila servera"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Open source 💖",
+            "i",
+            "Licence 🛂"
+        ],
+        "scope": [
+            "Dizajn web-stranice",
+            "Biblioteke",
+            "Ikone",
+            "Vektori"
+        ],
+        "usedin": "Koristi se u:"
     }
 }

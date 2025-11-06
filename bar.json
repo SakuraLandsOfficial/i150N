@@ -5,5 +5,82 @@
             "en": "Bavarian",
             "ingame": "Boarisch (Bayern)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Häusl",
+            "rules": "Regln",
+            "docs": "Dokumente",
+            "how2join": "Wia ma dabei sei ko",
+            "licenseandopensource": "Lizenz und Open Source"
+        },
+        "module": {
+            "menu": "Menü"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Olle Rechte vorbehoitn.",
+                "sakuralands": "© 2022-2025 SakuraLands. Olle Rechte vorbehoitn."
+            },
+            "non-mojang": "Net a offiziejs Minecraft-Produkt. Net vo Mojang gnetzt oda mid eahna vabundn."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "A Minecraft-Minispiel-Server in da Entwicklung."
+        },
+        "module": {
+            "scroll_down": "Obe roin"
+        },
+        "section1": {
+            "title": "Griaß di bei SakuraLands!",
+            "content": [
+                "Spui mid Freind aus da gonzn Welt.",
+                "Nimm an epischen Minispielen, Abenteian und mea teil!"
+            ]
+        },
+        "section2": {
+            "title": "Meahrsprochunterstützung!",
+            "content": [
+                "Spuia aus da gonzn Welt san willkommen.",
+                "Unsa Community untastitzt vui Sprochn, du konst imma Freind zum Spuin findn."
+            ],
+            "warning": "* A boa Sprochn san maschinell ibasetzt und kenna ungenau sei."
+        },
+        "section3": {
+            "title": "Vui Minispiele!",
+            "content": [
+                "Spui vui Minispiele: Parkour, Luftkriag, Bed Wars, Labyrinth-Flucht und mea.",
+                "Es gibt imma wos Neis zum ausprobian!"
+            ]
+        },
+        "section4": {
+            "title": "Sichaheit!",
+            "content": [
+                "Mia legn Wert auf fairn Wettbewerb und de Sichaheit vo de Spuia.",
+                "Unsa freindlichs Team sorgt dafia, dass dei Eafoahrung sicha und lustig is."
+            ]
+        },
+        "section5": {
+            "title": "Fang jetzt zum Spuin o!",
+            "content": "Kimm zu uns und ealeb de Freid vo SakuraLands!",
+            "button1": "Wia ma dabei sei ko",
+            "button2": "Regln"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Open Source 💖",
+            "und",
+            "Zertifikat 🛂"
+        ],
+        "scope": [
+            "Webdesign",
+            "Bibliothekn",
+            "Icons",
+            "Vektorn"
+        ],
+        "usedin": "Vawendt in:"
     }
 }

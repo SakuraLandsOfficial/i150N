@@ -5,5 +5,82 @@
             "en": "Afrikaans",
             "ingame": "Afrikaans (Suid-Afrika)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Tuis",
+            "rules": "Bedienersreëls",
+            "docs": "Dokumente",
+            "how2join": "Hoe om aan te sluit",
+            "licenseandopensource": "Lisensie en Oopbron"
+        },
+        "module": {
+            "menu": "Spyskaart"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Alle regte voorbehou.",
+                "sakuralands": "© 2022-2025 SakuraLands. Alle regte voorbehou."
+            },
+            "non-mojang": "Nie 'n amptelike Minecraft-produk nie. Nie goedgekeur deur of geassosieer met Mojang nie."
+        }
+    },
+    "index": {
+        "general": {
+            "description": " 'n Minecraft minigame-bediener in ontwikkeling."
+        },
+        "module": {
+            "scroll_down": "Rol af"
+        },
+        "section1": {
+            "title": "Welkom by SakuraLands!",
+            "content": [
+                "Speel saam met vriende van regoor die wêreld.",
+                "Sluit aan by epiese minigames, avonture en meer!"
+            ]
+        },
+        "section2": {
+            "title": "Meertalige Ondersteuning!",
+            "content": [
+                "Welkom aan spelers van regoor die wêreld.",
+                "Ons gemeenskap ondersteun baie tale, jy kan altyd vriende vind om saam mee te speel."
+            ],
+            "warning": "* Sommige tale is masjienvertaald en kan onakkuraat wees."
+        },
+        "section3": {
+            "title": "Verskeie Minigames!",
+            "content": [
+                "Speel kleurvolle minigames: Parkour, Skywars, Bed Wars, Maze Escape en meer.",
+                "Daar is altyd iets nuuts om te probeer!"
+            ]
+        },
+        "section4": {
+            "title": "Veilig!",
+            "content": [
+                "Ons fokus op regverdige spel en spelerveiligheid.",
+                "Ons vriendelike personeel verseker dat jou ervaring veilig en pret is."
+            ]
+        },
+        "section5": {
+            "title": "Begin nou speel!",
+            "content": "Sluit by ons aan en ervaar die pret van SakuraLands!",
+            "button1": "Hoe om aan te sluit",
+            "button2": "Bedienersreëls"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Oopbron 💖",
+            "en",
+            "Sertifikate 🛂"
+        ],
+        "scope": [
+            "Webontwerp",
+            "Biblioteke",
+            "Ikone",
+            "Vektore"
+        ],
+        "usedin": "Gebruik in:"
     }
 }

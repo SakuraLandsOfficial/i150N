@@ -5,5 +5,82 @@
             "en": "Viossa",
             "ingame": "Viossa (Vilant)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Iye",
+            "rules": "Rītsu",
+            "docs": "Dōkumentu",
+            "how2join": "Iri kōdō fū",
+            "licenseandopensource": "Ōpusūsu to Risensu"
+        },
+        "module": {
+            "menu": "Menū"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Āru kōpiraīto o kīpu.",
+                "sakuralands": "© 2022-2025 SakuraLands. Āru kōpiraīto o kīpu."
+            },
+            "non-mojang": "NĀI OFISHĀRU MAINRRAFU FAN SHI. NĀI MOJANG NI YORU APROBU TO SHŪGŌ KOTO."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Kakaru chīsana gēmu sābā da."
+        },
+        "module": {
+            "scroll_down": "Shita ni gorōru"
+        },
+        "section1": {
+            "title": "SakuraLands ni yōkoso!",
+            "content": [
+                "Sekai jū no tomodachi to asobu.",
+                "Epikku mini gēmu, bōken, soshite motto āru!"
+            ]
+        },
+        "section2": {
+            "title": "Tashū-go shien!",
+            "content": [
+                "Sekai jū no pūreiyā o yōkoso.",
+                "Watashitachi no komyunitī wa takusan no go ni shien suru, anata wa itsumo issho ni asobu tomodachi o mitsukeru koto ga dekimasu."
+            ],
+            "warning": "* Bubun no kotoba wa mashin de ransurēto da, tadashī wa nai koto ga āru."
+        },
+        "section3": {
+            "title": "Tashū no mini gēmu!",
+            "content": [
+                "Ōkī barie no mini gēmu: pākurū, Sukaiwāzu, Beddowāzu, Esukēpu Meiro, nado.",
+                "Itsumo shinsu ga arimasu, anata no tame ni torai suru!"
+            ]
+        },
+        "section4": {
+            "title": "Anzen!",
+            "content": [
+                "Watashitachi wa fēru purē to pūreiyā no anzen ni chūmoku shimasu.",
+                "Watashitachi no yūjō-teki na sutaffu chīmu wa anata no ekisupīriensu o anzen to tanoshī de suru koto o kakunin shimasu."
+            ]
+        },
+        "section5": {
+            "title": "Ima sugu asobu!",
+            "content": "Kyou sābā ni sanka shite.",
+            "button1": "Iri kōdō fū",
+            "button2": "Rītsu"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Ōpusūsu 💖",
+            "soshite",
+            "Ōrisensu 🛂"
+        ],
+        "scope": [
+            "Uebu dezain",
+            "Purōguramu raiburī",
+            "Aikon",
+            "Bekutā"
+        ],
+        "usedin": "Kōko de tsukai:"
     }
 }

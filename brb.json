@@ -5,5 +5,82 @@
             "en": "Brabantian",
             "ingame": "Braobans (Braobant)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Thoez",
+            "rules": "Serverregels",
+            "docs": "Dokkeminte",
+            "how2join": "Hoe te joine",
+            "licenseandopensource": "Open Source en Vergunningn"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Alle rechtn veurbeholn.",
+                "sakuralands": "© 2022-2025 SakuraLands. Alle rechtn veurbeholn."
+            },
+            "non-mojang": "Gin officieel Minecraft-produkt. Nie goedekeurd deur Mojang of an 't bedrief verknip."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "N Minecraft-minigames-server in ôntwikkeling."
+        },
+        "module": {
+            "scroll_down": "Rol omlaog"
+        },
+        "section1": {
+            "title": "Welkom bie SakuraLands!",
+            "content": [
+                "Speul mi vriendn van over de hiele wereld.",
+                "Doe mei mi episke minigames, avontuurn en nog mi!"
+            ]
+        },
+        "section2": {
+            "title": "Meerdere taaln ondersteund!",
+            "content": [
+                "Welkom veur spelers van over de hiele wereld.",
+                "Onze gemeenschap ondersteunt mierdere taaln en gij kunt altied vriendn viendn om mi te speuln."
+            ],
+            "warning": "* Sommig tealen zyn machienvertolkt en meugn nie precíes zyn."
+        },
+        "section3": {
+            "title": "Veul minigames!",
+            "content": [
+                "Speul mi nen grôôten verscheidenheid an minigames: parkour, luchtgevechtn, beddengevechtn, doolhoftip, en nog mi.",
+                "Der is altied wa nuuts om te probern!"
+            ]
+        },
+        "section4": {
+            "title": "Veilig!",
+            "content": [
+                "Wie besteedn andacht an eerlijk speuln en de veiligheid van spelers.",
+                "Onze vriendelikke medewerkers zorgn der veur dat uw ervaring veilig en plezant is."
+            ]
+        },
+        "section5": {
+            "title": "Begin jetzt mi te speuln!",
+            "content": "Joine de server vandaag nog.",
+            "button1": "Hoe te joine",
+            "button2": "Serverregels"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Open Source-projekte 💖",
+            "&",
+            "Vergunningn 🛂"
+        ],
+        "scope": [
+            "Webseite-Ontwerp",
+            "Bibliotheekn",
+            "Pictogrammen",
+            "Vektorn"
+        ],
+        "usedin": "Gebruukt in:"
     }
 }

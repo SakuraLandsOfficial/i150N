@@ -5,5 +5,82 @@
             "en": "Azerbaijani",
             "ingame": "Azərbaycanca (Azərbaycan)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Ana səhifə",
+            "rules": "Server qaydaları",
+            "docs": "Sənədlər",
+            "how2join": "Necə qoşulmaq olar",
+            "licenseandopensource": "Lisenziya və açıq mənbə"
+        },
+        "module": {
+            "menu": "Menyu"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Bütün hüquqlar qorunur.",
+                "sakuralands": "© 2022-2025 SakuraLands. Bütün hüquqlar qorunur."
+            },
+            "non-mojang": "Minecraft-ın rəsmi məhsulu deyil. Mojang tərəfindən təsdiqlənməyib və ya onunla əlaqəsi yoxdur."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "İnkişaf etməkdə olan Minecraft mini-oyun serveri."
+        },
+        "module": {
+            "scroll_down": "Aşağı sürüşdürün"
+        },
+        "section1": {
+            "title": "SakuraLandsna xoş gəlmisiniz!",
+            "content": [
+                "Bütün dünyadan dostlarla oynayın.",
+                "Döyüş minioyunlarına, macəralara və daha çox şeyə qoşulun!"
+            ]
+        },
+        "section2": {
+            "title": "Çoxdilli dəstək!",
+            "content": [
+                "Bütün dünyadan oyunçular xoş gəlmisiniz.",
+                "Bizim icmamız bir çox dili dəstəkləyir və həmişə birlikdə oynamaq üçün dostlar tapa bilərsiniz."
+            ],
+            "warning": "* Bəzi dillər maşın tərcüməsidir və dəqiq olmaya bilər."
+        },
+        "section3": {
+            "title": "Çoxlu mini oyunlar!",
+            "content": [
+                "Parkur, Hava döyüşü, Yataq döyüşü, Labirentdən qaçış və daha çoxu kimi rəngarəng minioyunlardan həzz alın.",
+                "Həmişə sınamaq üçün yeni bir şey var!"
+            ]
+        },
+        "section4": {
+            "title": "Təhlükəsizlik!",
+            "content": [
+                "Biz ədalətli oyun və oyunçuların təhlükəsizliyinə diqqət yetiririk.",
+                "Dost işçilərimiz təcrübənizin təhlükəsiz və əyləncəli olmasını təmin edir."
+            ]
+        },
+        "section5": {
+            "title": "İndi oynamağa başlayın!",
+            "content": "SakuraLandsnın əyləncəsini yaşamaq üçün bizə qoşulun!",
+            "button1": "Necə qoşulmaq olar",
+            "button2": "Server qaydaları"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Açıq mənbə 💖",
+            "və",
+            "Sertifikatlar 🛂"
+        ],
+        "scope": [
+            "Veb dizayn",
+            "Kitabxanalar",
+            "İkonlar",
+            "Vektorlar"
+        ],
+        "usedin": "İstifadə edilib:"
     }
 }

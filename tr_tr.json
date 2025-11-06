@@ -5,5 +5,82 @@
             "en": "Turkish",
             "ingame": "Türkçe (Türkiye)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Anasayfa",
+            "rules": "Sunucu Kuralları",
+            "docs": "Belgeler",
+            "how2join": "Nasıl Katılırım",
+            "licenseandopensource": "Lisans ve Açık Kaynak"
+        },
+        "module": {
+            "menu": "Menü"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Tüm hakları saklıdır.",
+                "sakuralands": "© 2022-2025 SakuraLands. Tüm hakları saklıdır."
+            },
+            "non-mojang": "Minecraft'ın resmi ürünü değildir. Mojang tarafından onaylanmamıştır veya Mojang ile hiçbir ilişkisi yoktur."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Geliştirilmekte olan bir Minecraft mini oyun sunucusu."
+        },
+        "module": {
+            "scroll_down": "Aşağı Kaydır"
+        },
+        "section1": {
+            "title": "SakuraLands'e Hoş Geldiniz!",
+            "content": [
+                "Dünyanın dört bir yanından gelen arkadaşlarla oynayın.",
+                "Destansı mini oyunlara, maceralara ve daha fazlasına katılın!"
+            ]
+        },
+        "section2": {
+            "title": "Çoklu Dil Desteği!",
+            "content": [
+                "Dünyanın her yerinden oyunculara hoş geldiniz.",
+                "Topluluğumuz çoklu dil desteği sunar ve her zaman birlikte oynayacak arkadaşlar bulabilirsiniz."
+            ],
+            "warning": "* Bazı diller makine çevirisidir ve doğru olmayabilir."
+        },
+        "section3": {
+            "title": "Çeşitli Mini Oyunlar!",
+            "content": [
+                "Parkur, gök savaşı, yatak savaşları, labirentten kaçış ve daha fazlası gibi renkli mini oyunların tadını çıkarın.",
+                "Denenecek her zaman yeni bir şeyler vardır!"
+            ]
+        },
+        "section4": {
+            "title": "Güvenlik!",
+            "content": [
+                "Adil oyun ve oyuncu güvenliğine önem veriyoruz.",
+                "Dost canlısı personelimiz, deneyiminizin güvenli ve eğlenceli olmasını sağlar."
+            ]
+        },
+        "section5": {
+            "title": "Şimdi Oynamaya Başla!",
+            "content": "SakuraLands'in eğlencesini deneyimlemek için bize katılın!",
+            "button1": "Nasıl Katılırım",
+            "button2": "Sunucu Kuralları"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Açık Kaynak 💖",
+            "Ve",
+            "Sertifikalar 🛂"
+        ],
+        "scope": [
+            "Web Tasarımı",
+            "Kütüphaneler",
+            "Simgeler",
+            "Vektörler"
+        ],
+        "usedin": "Kullanıldığı yer:"
     }
 }

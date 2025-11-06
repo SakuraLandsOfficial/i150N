@@ -5,5 +5,82 @@
             "en": "Chinese Simplified (Chinese Mainland; Mandarin)",
             "ingame": "简体中文 (中国大陆)"
         }
+    },
+    "general": {
+        "name": "樱花境地",
+        "pages": {
+            "home": "首页",
+            "rules": "服务器规则",
+            "docs": "文档",
+            "how2join": "如何加入",
+            "licenseandopensource": "许可与开源"
+        },
+        "module": {
+            "menu": "菜单"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev。版权所有。",
+                "sakuralands": "© 2022-2025 樱花境地。版权所有。"
+            },
+            "non-mojang": "非Minecraft官方产品。未经Mojang认可或与其有任何关联。"
+        }
+    },
+    "index": {
+        "general": {
+            "description": "一个正在开发中的Minecraft小游戏服务器。"
+        },
+        "module": {
+            "scroll_down": "向下滚动"
+        },
+        "section1": {
+            "title": "欢迎加入樱花境地！",
+            "content": [
+                "与来自世界各地的朋友一起游玩。",
+                "加入史诗般的迷你游戏、冒险和更多内容！"
+            ]
+        },
+        "section2": {
+            "title": "多语言支持！",
+            "content": [
+                "欢迎来自世界各地的玩家。",
+                "我们的社群支持多种语言，你总可以找到一起玩的朋友。"
+            ],
+            "warning": "* 部分语言为机器翻译，可能不准确。"
+        },
+        "section3": {
+            "title": "多种小游戏！",
+            "content": [
+                "畅玩丰富多彩的迷你游戏：跑酷、空战、床战、逃出迷宫等等。",
+                "总有新鲜事等你来试试！"
+            ]
+        },
+        "section4": {
+            "title": "安全！",
+            "content": [
+                "我们注重公平竞争和玩家安全。",
+                "我们友善的工作人员确保你的体验安全又有趣。"
+            ]
+        },
+        "section5": {
+            "title": "现在就开始玩！",
+            "content": "加入我们，体验樱花境地的乐趣！",
+            "button1": "如何加入",
+            "button2": "服务器规则"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "开源 💖",
+            "及",
+            "证书 🛂"
+        ],
+        "scope": [
+            "网页设计",
+            "程序库",
+            "图标",
+            "向量"
+        ],
+        "usedin": "使用在："
     }
 }

@@ -5,5 +5,82 @@
             "en": "Belarusian (Latin)",
             "ingame": "Biełaruskaja (Biełaruś)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Hałoŭnaja",
+            "rules": "Pravił",
+            "docs": "Dakumentacyja",
+            "how2join": "Jak dałučycca",
+            "licenseandopensource": "Licenzii i adkryty kod"
+        },
+        "module": {
+            "menu": "Mieniu"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Usie pravy abaronyeny.",
+                "sakuralands": "© 2022-2025 SakuraLands. Usie pravy abaronyeny."
+            },
+            "non-mojang": "Nieaficyjny pradukt Minecraft. Nie ŭchvaleny Mojang i nie źviazany ź im."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Servier minihraŭ, jaki znachodzicca ŭ raspracoŭcy."
+        },
+        "module": {
+            "scroll_down": "Prakrucić uniz"
+        },
+        "section1": {
+            "title": "Sardiečna zaprašajem u SakuraLands!",
+            "content": [
+                "Hulajcie z druźziami z usiaho śvietu.",
+                "Dałučajciesia da epičnych minihraŭ, pryhod i šmat čaho inšaha!"
+            ]
+        },
+        "section2": {
+            "title": "Šmatmoŭnaść!",
+            "content": [
+                "Sardiečna zaprašajem hulcoŭ z usiaho śvietu.",
+                "Našaja supilnaść padtrymlivaje šmat moŭ, i vy zaŭždy zmožacie znajści druziaŭ dla hulni."
+            ],
+            "warning": "* Niekatoryja słovy pieraviedzienyja maszynami i mohuć być niapravilnymi."
+        },
+        "section3": {
+            "title": "Šmat minihraŭ!",
+            "content": [
+                "Hulajcie ŭ mnohastvu minihraŭ: parkur, boj u niebie, Bed Wars, vybracca ź łabiryntu i mnohaje inšaje.",
+                "Zaŭždy jość štoś novaje, što možna sprabavać!"
+            ]
+        },
+        "section4": {
+            "title": "Biaśpieka!",
+            "content": [
+                "My zasiarodžany na spraviadlivaj hulni i biaśpiecy hulcoŭ.",
+                "Naš družalubny piersanał harantuje, što vaš dośvied budzie biaśpiečnym i cikavym."
+            ]
+        },
+        "section5": {
+            "title": "Pačnicie hulać zaraz!",
+            "content": "Dałučajciesia da serviera siońnia.",
+            "button1": "Jak dałučycca",
+            "button2": "Pravił"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Adkryty kod 💖",
+            "i",
+            "Licenzii 🛂"
+        ],
+        "scope": [
+            "Veb-dyzajn",
+            "Biblijateki",
+            "Abrazki",
+            "Vektary"
+        ],
+        "usedin": "Vykarystoŭvajecca ŭ:"
     }
 }

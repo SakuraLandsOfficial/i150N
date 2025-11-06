@@ -5,5 +5,82 @@
             "en": "Yoruba",
             "ingame": "Yorùbá (Nàìjíríà)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Ilé",
+            "rules": "Àwọn Òfin",
+            "docs": "Ìwé Ìkọsílẹ̀",
+            "how2join": "Báwo ni a ṣe le darapọ̀",
+            "licenseandopensource": "Àwọn Ìfọwọ́sí Ṣíṣí Ìsọfúnni & Àwọn Ìwé-àṣẹ"
+        },
+        "module": {
+            "menu": "Àkojọ"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Gbogbo ẹ̀tọ́ wà fún un.",
+                "sakuralands": "© 2022-2025 SakuraLands. Gbogbo ẹ̀tọ́ wà fún un."
+            },
+            "non-mojang": "Kìí ṣe ọjà MINECRAFT GẸ́GẸ́ BÍ ÒṢÌṢẸ́. Kò fọwọ́sí tàbí jẹmọ́ pẹ̀lú MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Server mini-game tí a wà ní ìdàgbàsókè."
+        },
+        "module": {
+            "scroll_down": "Yi lọ sí isàlẹ̀"
+        },
+        "section1": {
+            "title": "Káàbọ̀ sí SakuraLands!",
+            "content": [
+                "Ṣeré pẹ̀lú àwọn ọ̀rẹ́ láti gbogbo àgbáyé.",
+                "Darapọ̀ mọ́ àwọn eré mini-game, ìrìn àjò, àti ohun mìíràn!"
+            ]
+        },
+        "section2": {
+            "title": "Ọ̀pọ̀lọpọ̀ Èdè!",
+            "content": [
+                "A gbà àwọn oníṣe láti gbogbo àgbáyé.",
+                "Àwọn àwùjọ wa gbé èdè púpọ̀ ró, ìgbà gbogbo ni o lè rí àwọn ọ̀rẹ́ láti bá ṣeré pọ̀."
+            ],
+            "warning": "* Àwọn ọ̀rọ̀ kan jẹ́ ti ẹ̀rọ-ìtumọ̀, ó sì lè má tọ́."
+        },
+        "section3": {
+            "title": "Ọ̀pọ̀lọpọ̀ àwọn mini-game!",
+            "content": [
+                "Ṣeré pẹ̀lú ọ̀pọ̀lọpọ̀ àwọn mini-games: parkour, skywars, bedwars, ìrọwọ́wọ́ kúrò ní yàrá ìpẹ̀jẹ́, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.",
+                "Nǹkan tuntun máa ń wà láti gbìyànjú!"
+            ]
+        },
+        "section4": {
+            "title": "Aàbò!",
+            "content": [
+                "A fún ipa pàtàkì lórí ìṣeré tó wà déédé àti aàbò oníṣe.",
+                "Àwọn òṣìṣẹ́ wa tó ní ọ̀rẹ́ máa ń rí i dájú pé ìrírí rẹ jẹ́ aàbò àti dídùn."
+            ]
+        },
+        "section5": {
+            "title": "Bẹ̀rẹ̀ ṣíṣeré nísìnyí!",
+            "content": "Darapọ̀ mọ́ server lónìí.",
+            "button1": "Báwo ni a ṣe le darapọ̀",
+            "button2": "Àwọn Òfin"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Ìfọwọ́sí Ṣíṣí 💖",
+            "Àti",
+            "Àwọn Ìwé-àṣẹ 🛂"
+        ],
+        "scope": [
+            "Àmúlò Ojú-òpó",
+            "Àwọn Àkójọ Ìwé-ìkọsílẹ̀",
+            "Àwọn Àmì Àwòrán",
+            "Àwọn Vector"
+        ],
+        "usedin": "Lílo nínú:"
     }
 }

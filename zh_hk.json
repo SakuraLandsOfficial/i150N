@@ -5,5 +5,82 @@
             "en": "Chinese Traditional (Hong Kong SAR)",
             "ingame": "繁體中文 (香港特別行政區)"
         }
+    },
+    "general": {
+        "name": "櫻花境地",
+        "pages": {
+            "home": "首頁",
+            "rules": "伺服器規則",
+            "docs": "文件",
+            "how2join": "點樣加入",
+            "licenseandopensource": "許可同開源"
+        },
+        "module": {
+            "menu": "選單"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev。版權所有。",
+                "sakuralands": "© 2022-2025 櫻花境地。版權所有。"
+            },
+            "non-mojang": "非Minecraft官方產品。未經Mojang認可或與其有任何關聯。"
+        }
+    },
+    "index": {
+        "general": {
+            "description": "一個開發緊嘅Minecraft迷你遊戲伺服器。"
+        },
+        "module": {
+            "scroll_down": "向下碌"
+        },
+        "section1": {
+            "title": "歡迎加入櫻花境地！",
+            "content": [
+                "同來自世界各地嘅朋友一齊玩。",
+                "加入史詩級嘅迷你遊戲、冒險同埋更多嘢！"
+            ]
+        },
+        "section2": {
+            "title": "多語言支援！",
+            "content": [
+                "歡迎來自世界各地嘅玩家。",
+                "我哋嘅社群支援多種語言，你總係可以搵到一齊玩嘅朋友。"
+            ],
+            "warning": "* 部分語言係機器翻譯，可能唔準確。"
+        },
+        "section3": {
+            "title": "多款迷你遊戲！",
+            "content": [
+                "暢玩豐富多彩嘅迷你遊戲：跑酷、空戰、床戰、逃出迷宮等等。",
+                "總係有新鮮嘢等你嚟試吓！"
+            ]
+        },
+        "section4": {
+            "title": "安全！",
+            "content": [
+                "我哋注重公平競爭同埋玩家安全。",
+                "我哋友善嘅工作人員確保你嘅體驗安全又有趣。"
+            ]
+        },
+        "section5": {
+            "title": "而家就開始玩！",
+            "content": "加入我哋，體驗櫻花境地嘅樂趣！",
+            "button1": "點樣加入",
+            "button2": "伺服器規則"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "開源 💖",
+            "同",
+            "證書 🛂"
+        ],
+        "scope": [
+            "網頁設計",
+            "程式庫",
+            "圖標",
+            "向量"
+        ],
+        "usedin": "使用喺："
     }
 }

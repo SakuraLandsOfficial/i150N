@@ -5,5 +5,82 @@
             "en": "LOLCAT",
             "ingame": "LOLCAT (Kingdom of Cats)"
         }
+    },
+    "general": {
+        "name": "SakuraLandz",
+        "pages": {
+            "home": "H0m3",
+            "rules": "Rulz",
+            "docs": "D0kz",
+            "how2join": "H0w 2 j01n",
+            "licenseandopensource": "L1c3nz3 & 0p3n S0urc3"
+        },
+        "module": {
+            "menu": "M3nU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 Ax0l0tlD3v. All r1ghtz r3z3rv3d.",
+                "sakuralands": "© 2022-2025 SakuraLandz. All r1ghtz r3z3rv3d."
+            },
+            "non-mojang": "N0t 0ffic14l M1n3cr4ft pr0duct. N0t 4ppr0v3d by 0r 4ss0c14t3d w1th M0j4ng."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "4 M1n3cr4ft m1n1g4m3z s3rv3r und3r d3v3l0pm3nt."
+        },
+        "module": {
+            "scroll_down": "Scr0ll d0wn"
+        },
+        "section1": {
+            "title": "W3lc0m3 t0 SakuraLandz!",
+            "content": [
+                "Pl4y w1th fr13ndz fr0m 4r0und th3 w0rld.",
+                "J01n 3p1c m1n1g4m3z, 4dv3ntur3z, & m0r3!"
+            ]
+        },
+        "section2": {
+            "title": "Mult1-L4ngu4g3 Supp0rt!",
+            "content": [
+                "W3lc0m3 pl4y3rz fr0m 4ll 4r0und th3 w0rld.",
+                "0ur c0mmun1ty supp0rtz mult1pl3 l4ngu4g3z, y0u c4n 4lw4yz f1nd fr13ndz t0 pl4y w1th."
+            ],
+            "warning": "* S0m3 l4ngu4g3z 4r3 m4ch1n3 tr4nsl4t3d, m4y b3 1n4ccur4t3."
+        },
+        "section3": {
+            "title": "M4ny m1n1g4m3z!",
+            "content": [
+                "Pl4y 4 r1ch v4r13ty 0f m1n1g4m3z: P4rk0ur, Sk1w4rz, B3dw4rz, 3sc4p3 th3 m4z3 4nd m0r3.",
+                "Th3r3'z 4lw4yz s0m3th1ng n3w t0 tr1!"
+            ]
+        },
+        "section4": {
+            "title": "S4f3!",
+            "content": [
+                "W3 f0cuz 0n f41r pl4y 4nd pl4y3r s4f3ty.",
+                "0ur fr13ndly st4ff m4k3 sur3 y0ur 3xp3r13nc3 1z s4f3 4nd fun."
+            ]
+        },
+        "section5": {
+            "title": "St4rt Pl4y1ng N0w!",
+            "content": "J01n us 4nd 3xp3r13nc3 th3 fun 0f SakuraLandz!",
+            "button1": "H0w 2 j01n",
+            "button2": "Rulz"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "0p3n S0urc3 💖",
+            "&",
+            "C3rt1f1c4t3z 🛂"
+        ],
+        "scope": [
+            "W3bz1t3 D3z1gn",
+            "L1br4r13z",
+            "1c0nz",
+            "V3ct0rz"
+        ],
+        "usedin": "Us3d 1n:"
     }
 }
