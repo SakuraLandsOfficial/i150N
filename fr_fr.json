@@ -10,25 +10,25 @@
         "name": "SakuraLands",
         "pages": {
             "home": "Accueil",
-            "rules": "Règles du serveur",
+            "rules": "Règles",
             "docs": "Documentation",
             "how2join": "Comment rejoindre",
-            "licenseandopensource": "Licence et Open Source"
+            "licenseandopensource": "Open Source et licences"
         },
         "module": {
-            "menu": "Menu"
+            "menu": "MENU"
         },
         "footer": {
             "copyright": {
                 "axolotdev": "© 2024-2025 AxolotlDev. Tous droits réservés.",
                 "sakuralands": "© 2022-2025 SakuraLands. Tous droits réservés."
             },
-            "non-mojang": "Ce n'est pas un produit officiel de Minecraft. Non approuvé par ou associé à Mojang."
+            "non-mojang": "CE N'EST PAS UN PRODUIT OFFICIEL DE MINECRAFT. NON APPROUVÉ PAR OU ASSOCIÉ À MOJANG."
         }
     },
     "index": {
         "general": {
-            "description": "Un serveur de mini-jeux Minecraft en développement."
+            "description": "Serveur de mini-jeux en développement."
         },
         "module": {
             "scroll_down": "Faire défiler vers le bas"
@@ -46,12 +46,12 @@
                 "Bienvenue aux joueurs du monde entier.",
                 "Notre communauté prend en charge plusieurs langues, vous pourrez toujours trouver des amis avec qui jouer."
             ],
-            "warning": "* Certaines langues sont traduites par machine et peuvent être inexactes."
+            "warning": "* Certains mots sont traduits par machine et peuvent être inexacts."
         },
         "section3": {
-            "title": "Plusieurs mini-jeux !",
+            "title": "Beaucoup de mini-jeux !",
             "content": [
-                "Jouez à des mini-jeux colorés : Parkour, Skywars, Bedwars, Évasion du labyrinthe, et bien plus encore.",
+                "Profitez d'une grande variété de mini-jeux : parkour, skywars, bedwars, escape maze, et bien plus encore.",
                 "Il y a toujours quelque chose de nouveau à essayer !"
             ]
         },
@@ -59,12 +59,12 @@
             "title": "Sécurité !",
             "content": [
                 "Nous nous engageons pour le fair-play et la sécurité des joueurs.",
-                "Notre personnel amical assure une expérience sûre et amusante."
+                "Notre équipe amicale de personnel veille à ce que votre expérience soit sûre et amusante."
             ]
         },
         "section5": {
-            "title": "Commencez à jouer maintenant !",
-            "content": "Rejoignez-nous et découvrez le plaisir de SakuraLands !",
+            "title": "Jouez maintenant !",
+            "content": "Rejoignez le serveur aujourd'hui.",
             "button1": "Comment rejoindre",
             "button2": "Règles du serveur"
         }
@@ -73,7 +73,7 @@
         "title": [
             "Open Source 💖",
             "et",
-            "Certificats 🛂"
+            "Licences 🛂"
         ],
         "scope": [
             "Conception web",
