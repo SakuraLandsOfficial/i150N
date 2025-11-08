@@ -7,7 +7,7 @@
         }
     },
     "general": {
-        "name": "SakuraLandz",
+        "name": "SakuraLands",
         "pages": {
             "home": "H0m3",
             "rules": "Rulz",
@@ -20,8 +20,8 @@
         },
         "footer": {
             "copyright": {
-                "axolotdev": "© 2024-2025 Ax0l0tlD3v. All r1ghtz r3z3rv3d.",
-                "sakuralands": "© 2022-2025 SakuraLandz. All r1ghtz r3z3rv3d."
+                "axolotdev": "© 2024-2025 AxolotlDev. All r1ghtz r3z3rv3d.",
+                "sakuralands": "© 2022-2025 SakuraLands. All r1ghtz r3z3rv3d."
             },
             "non-mojang": "N0t 0ffic14l M1n3cr4ft pr0duct. N0t 4ppr0v3d by 0r 4ss0c14t3d w1th M0j4ng."
         }
@@ -34,7 +34,7 @@
             "scroll_down": "Scr0ll d0wn"
         },
         "section1": {
-            "title": "W3lc0m3 t0 SakuraLandz!",
+            "title": "W3lc0m3 t0 SakuraLands!",
             "content": [
                 "Pl4y w1th fr13ndz fr0m 4r0und th3 w0rld.",
                 "J01n 3p1c m1n1g4m3z, 4dv3ntur3z, & m0r3!"
@@ -64,7 +64,7 @@
         },
         "section5": {
             "title": "St4rt Pl4y1ng N0w!",
-            "content": "J01n us 4nd 3xp3r13nc3 th3 fun 0f SakuraLandz!",
+            "content": "J01n us 4nd 3xp3r13nc3 th3 fun 0f SakuraLands!",
             "button1": "H0w 2 j01n",
             "button2": "Rulz"
         }
