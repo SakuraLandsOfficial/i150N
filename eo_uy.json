@@ -5,5 +5,82 @@
             "en": "Esperanto",
             "ingame": "Esperanto (Esperantujo)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Hejmo",
+            "rules": "Reguloj",
+            "docs": "Dokumentado",
+            "how2join": "Kiel Aliĝi",
+            "licenseandopensource": "Malfermitaj Fontoj & Permesiloj"
+        },
+        "module": {
+            "menu": "MENUO"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Ĉiuj rajtoj rezervitaj.",
+                "sakuralands": "© 2022-2025 SakuraLands. Ĉiuj rajtoj rezervitaj."
+            },
+            "non-mojang": "NE OFICIALA MINECRAFT-PRODUKTO. NE APROBITA DE AŬ ASOCITA KUN MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-luda servilo en evoluo"
+        },
+        "module": {
+            "scroll_down": "Rulumi Malsupren"
+        },
+        "section1": {
+            "title": "Bonvenon al SakuraLands!",
+            "content": [
+                "Ludu kun amikoj el la tuta mondo.",
+                "Aliĝu al epopeaj miniludoj, aventuroj kaj pli!"
+            ]
+        },
+        "section2": {
+            "title": "Multlingva!",
+            "content": [
+                "Ludantoj el la tuta mondo estas bonvenaj.",
+                "Nia komunumo subtenas plurajn lingvojn, do vi ĉiam trovos amikojn por kunludi."
+            ],
+            "warning": "* Iuj vortoj estas maŝine tradukitaj kaj eble ne estas precizaj."
+        }
+    },
+    "section3": {
+        "title": "Multaj Miniludoj!",
+        "content": [
+            "Ĝuu vastan varion de miniludoj: parkuro, ĉielmilitoj, Litomilitoj, eskap-labirinto, kaj pli.",
+            "Ĉiam estas io nova por provi!"
+        ]
+    },
+    "section4": {
+        "title": "Sekureco!",
+        "content": [
+            "Ni zorgas pri justa ludo kaj ludanta sekureco.",
+            "Nia amika teamo certigas, ke via sperto estas sekura kaj amuza."
+        ]
+    },
+    "section5": {
+        "title": "Ludu Nun!",
+        "content": "Aliĝu al la servilo hodiaŭ.",
+        "button1": "Kiel Aliĝi",
+        "button2": "Reguloj de la Servilo"
+    },
+    "licenseandopensource": {
+        "title": [
+            "Malfermitaj Fontoj 💖",
+            "&",
+            "Permesiloj 🛂"
+        ],
+        "scope": [
+            "Reteja Dezajno",
+            "Bibliotekoj",
+            "Ikonoj",
+            "Vektoroj"
+        ],
+        "usedin": "Uzata En:"
     }
 }

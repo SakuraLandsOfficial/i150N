@@ -5,5 +5,82 @@
             "en": "Hungarian",
             "ingame": "Magyar (Magyarország)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Kezdőlap",
+            "rules": "Szabályok",
+            "docs": "Dokumentáció",
+            "how2join": "Hogyan csatlakozhatsz",
+            "licenseandopensource": "Nyílt forráskódok és licencek"
+        },
+        "module": {
+            "menu": "MENÜ"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Minden jog fenntartva.",
+                "sakuralands": "© 2022-2025 SakuraLands. Minden jog fenntartva."
+            },
+            "non-mojang": "NEM HIVATALOS MINECRAFT TERMÉK. NEM A MOJANG ÁLTAL JÓVÁHAGYOTT VAGY AHHOZ KAPCSOLÓDÓ."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Fejlesztés alatt álló minijáték szerver"
+        },
+        "module": {
+            "scroll_down": "Görgess le"
+        },
+        "section1": {
+            "title": "Üdvözlünk a SakuraLands-ben!",
+            "content": [
+                "Játssz a világ minden tájáról érkező barátokkal.",
+                "Csatlakozz a nagyszerű minijátékokhoz, kalandokhoz és még sok máshoz!"
+            ]
+        },
+        "section2": {
+            "title": "Többnyelvűség!",
+            "content": [
+                "A világ minden tájáról érkező játékosokat szívesen látunk.",
+                "Közösségünk több nyelvet is támogat, így mindig találsz majd barátokat, akikkel játszhatsz."
+            ],
+            "warning": "* Néhány szó gépi fordítás, és előfordulhatnak pontatlanságok."
+        },
+        "section3": {
+            "title": "Rengeteg minijáték!",
+            "content": [
+                "Élvezd a minijátékok széles választékát: parkour, skywars, bedwars, menekülési labirintus és még sok más.",
+                "Mindig van valami új, amit kipróbálhatsz!"
+            ]
+        },
+        "section4": {
+            "title": "Biztonság!",
+            "content": [
+                "Fontos számunkra a tisztességes játék és a játékosok biztonsága.",
+                "Barátságos személyzetünk biztosítja, hogy a játékélmény biztonságos és szórakoztató legyen."
+            ]
+        },
+        "section5": {
+            "title": "Játssz most!",
+            "content": "Csatlakozz a szerverhez még ma!",
+            "button1": "Hogyan csatlakozhatsz",
+            "button2": "A szerver szabályai"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Nyílt forráskódok 💖",
+            "&",
+            "Licencek 🛂"
+        ],
+        "scope": [
+            "Weboldal design",
+            "Könyvtárak",
+            "Ikonok",
+            "Vektorok"
+        ],
+        "usedin": "Használt:"
     }
 }

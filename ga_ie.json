@@ -5,5 +5,82 @@
             "en": "Irish",
             "ingame": "Gaeilge (Éire)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Baile",
+            "rules": "Rialacha",
+            "docs": "Doiciméadú",
+            "how2join": "Conas a bheith páirteach",
+            "licenseandopensource": "Foinse Oscailte & Ceadúnais"
+        },
+        "module": {
+            "menu": "ROGHCHLÁR"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Gach ceart ar cosaint.",
+                "sakuralands": "© 2022-2025 SakuraLands. Gach ceart ar cosaint."
+            },
+            "non-mojang": "NÍL TÁIRGE OIFIGIÚIL MINECRAFT. NÍL FAOMHTHA AGUS NÍL BHAINEANN LE MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Freastalaí mionchluichí faoi fhorbairt"
+        },
+        "module": {
+            "scroll_down": "Scrolláil Síos"
+        },
+        "section1": {
+            "title": "Fáilte go SakuraLands!",
+            "content": [
+                "Imir le cairde ó gach cearn den domhan.",
+                "Bí páirteach i mionchluichí eipiciúla, eachtraí agus go leor eile!"
+            ]
+        },
+        "section2": {
+            "title": "Tacaíocht Ilteangach!",
+            "content": [
+                "Tá fáilte roimh imreoirí ó gach cearn den domhan.",
+                "Tacaíonn ár bpobal le go leor teangacha, mar sin gheobhaidh tú cairde i gcónaí le himirt leo."
+            ],
+            "warning": "* Tá roinnt focal aistrithe ag meaisín agus b'fhéidir nach bhfuil siad cruinn."
+        },
+        "section3": {
+            "title": "Go leor Mionchluichí!",
+            "content": [
+                "Bain sult as réimse leathan mionchluichí: parkour, skywars, bedwars, meadhán éalaithe, agus go leor eile.",
+                "Bíonn rud éigin nua ann le triail i gcónaí!"
+            ]
+        },
+        "section4": {
+            "title": "Sábháilteacht!",
+            "content": [
+                "Tá cúram orainn faoin imirt chóir agus sábháilteacht na n-imreoirí.",
+                "Déanann ár bhfoireann chairdiúil cinnte go bhfuil do thaithí sábháilte agus spraíúil."
+            ]
+        },
+        "section5": {
+            "title": "Imir Anois!",
+            "content": "Bí páirteach sa fhreastalaí inniu.",
+            "button1": "Conas a bheith páirteach",
+            "button2": "Rialacha an Fhreastalaí"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Foinse Oscailte 💖",
+            "&",
+            "Ceadúnais 🛂"
+        ],
+        "scope": [
+            "Dearadh Suímh Ghréasáin",
+            "Leabharlanna",
+            "Deilbhíní",
+            "Veicteoirí"
+        ],
+        "usedin": "Úsáidte Ann:"
     }
 }

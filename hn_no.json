@@ -5,5 +5,82 @@
             "en": "High Norwegian",
             "ingame": "Høgnorsk (Norig)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Heim",
+            "rules": "Reglar",
+            "docs": "Dokumentasjon",
+            "how2join": "Korleis du vert med",
+            "licenseandopensource": "Opne kjelder & Løyve"
+        },
+        "module": {
+            "menu": "MENY"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Alle rettar reservert.",
+                "sakuralands": "© 2022-2025 SakuraLands. Alle rettar reservert."
+            },
+            "non-mojang": "IKKJE EIT OFFISIELT MINECRAFT-PRODUKT. IKKJE GODKJENT AV ELLER ASSOSIERT MED MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-spel-server under utvikling"
+        },
+        "module": {
+            "scroll_down": "Rull ned"
+        },
+        "section1": {
+            "title": "Velkomen til SakuraLands!",
+            "content": [
+                "Spel med vener frå heile verda.",
+                "Ver med på episke minispel, eventyr og meir!"
+            ]
+        },
+        "section2": {
+            "title": "Fleire språk!",
+            "content": [
+                "Spelarar frå heile verda er velkomne.",
+                "Fellesskapet vårt støttar fleire språk, så du vil alltid finne vener å spele med."
+            ],
+            "warning": "* Nokre ord er maskinomsette og er kanskje ikkje nøyaktige."
+        },
+        "section3": {
+            "title": "Mange minispel!",
+            "content": [
+                "Kos deg med eit breitt utval av minispel: parkour, skywars, bedwars, escape maze og meir.",
+                "Det er alltid noko nytt å prøve!"
+            ]
+        },
+        "section4": {
+            "title": "Tryggleik!",
+            "content": [
+                "Me bryr oss om fair play og spelartryggleik.",
+                "Det vennlege staben vår sørgjer for at opplevinga di er trygg og morosam."
+            ]
+        },
+        "section5": {
+            "title": "Spel no!",
+            "content": "Ver med på serveren i dag.",
+            "button1": "Korleis du vert med",
+            "button2": "Serverreglar"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Opne kjelder 💖",
+            "&",
+            "Løyve 🛂"
+        ],
+        "scope": [
+            "Nettsidedesign",
+            "Bibliotek",
+            "Ikonar",
+            "Vektorar"
+        ],
+        "usedin": "Nytta i:"
     }
 }

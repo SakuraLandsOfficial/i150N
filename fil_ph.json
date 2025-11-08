@@ -5,5 +5,82 @@
             "en": "Filipino",
             "ingame": "Filipino (Pilipinas)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Tahanan",
+            "rules": "Mga Panuntunan",
+            "docs": "Dokumentasyon",
+            "how2join": "Paano Sumali",
+            "licenseandopensource": "Open Source at Lisensya"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Nakalaan ang lahat ng karapatan.",
+                "sakuralands": "© 2022-2025 SakuraLands. Nakalaan ang lahat ng karapatan."
+            },
+            "non-mojang": "HINDI ISANG OPISYAL NA PRODUKTO NG MINECRAFT. HINDI APRUBADO O KAUGNAY SA MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Server ng minigame na ginagawa pa"
+        },
+        "module": {
+            "scroll_down": "Mag-scroll Pababa"
+        },
+        "section1": {
+            "title": "Maligayang Pagdating sa SakuraLands!",
+            "content": [
+                "Makipaglaro sa mga kaibigan mula sa buong mundo.",
+                "Sumali sa mga epikong minigame, pakikipagsapalaran, at marami pa!"
+            ]
+        },
+        "section2": {
+            "title": "Maramihang Wika!",
+            "content": [
+                "Malugod na tinatanggap ang mga manlalaro mula sa buong mundo.",
+                "Sinusuportahan ng aming komunidad ang maraming wika, kaya palagi kang makakahanap ng mga kaibigang makakalaro."
+            ],
+            "warning": "* Ang ilang salita ay isinalin ng makina at maaaring hindi tumpak."
+        },
+        "section3": {
+            "title": "Maraming Minigame!",
+            "content": [
+                "Masiyahan sa malawak na iba't ibang minigame: parkour, skywars, bedwars, Escape Maze, at marami pa.",
+                "Laging may bagong dapat subukan!"
+            ]
+        },
+        "section4": {
+            "title": "Kaligtasan!",
+            "content": [
+                "Pinapahalagahan namin ang patas na laro at kaligtasan ng manlalaro.",
+                "Tinitiyak ng aming magiliw na staff team na ligtas at masaya ang iyong karanasan."
+            ]
+        },
+        "section5": {
+            "title": "Maglaro Na!",
+            "content": "Sumali sa server ngayon.",
+            "button1": "Paano Sumali",
+            "button2": "Mga Panuntunan ng Server"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Open Source 💖",
+            "&",
+            "Mga Lisensya 🛂"
+        ],
+        "scope": [
+            "Disenyo ng Website",
+            "Mga Aklatan",
+            "Mga Icon",
+            "Mga Vektor"
+        ],
+        "usedin": "Ginamit Sa:"
     }
 }

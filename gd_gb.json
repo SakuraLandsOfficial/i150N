@@ -5,5 +5,82 @@
             "en": "Scottish Gaelic",
             "ingame": "Gàidhlig (Alba)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Dachaigh",
+            "rules": "Riaghailtean",
+            "docs": "Sgrìobhainnean",
+            "how2join": "Mar a thèid thu a-steach",
+            "licenseandopensource": "Còdan Fosgailte is Ceadan"
+        },
+        "module": {
+            "menu": "CLÀR-TAICE"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Gach còir glèidhte.",
+                "sakuralands": "© 2022-2025 SakuraLands. Gach còir glèidhte."
+            },
+            "non-mojang": "CHAN EIL TORAIDHEAN OIFIGEIL MINECRAFT. CHAN EIL AONADACH LE NO CO-CHEANNACH LE MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Frithealaiche geama beag ga leasachadh"
+        },
+        "module": {
+            "scroll_down": "Sgrolaich sìos"
+        },
+        "section1": {
+            "title": "Fàilte gu SakuraLands!",
+            "content": [
+                "Cluich le caraidean bho air feadh an t-saoghail.",
+                "Thig còmhla ri geamannan beaga uirsgeulach, dàn-thuras agus barrachd!"
+            ]
+        },
+        "section2": {
+            "title": "Ioma-chànanach!",
+            "content": [
+                "Tha fàilte air cluicheadairean bho air feadh an t-saoghail.",
+                "Tha ar coimhearsnachd a' toirt taic do iomadh cànan, agus mar sin gheibh thu caraidean an-còmhnaidh ri chluich."
+            ],
+            "warning": "* Is dòcha nach eil cuid de dh'fhaclan ceart, air an eadar-theangachadh le inneal."
+        },
+        "section3": {
+            "title": "Mòran gheamannan beaga!",
+            "content": [
+                "Tlachd a ghabhail air measgachadh farsaing de gheamannan beaga: parkour, skywars, bedwars, labyrinth teichidh, agus barrachd.",
+                "Tha rudeigin ùr ann an-còmhnaidh ri fheuchainn!"
+            ]
+        },
+        "section4": {
+            "title": "Sàbhailteachd!",
+            "content": [
+                "Tha cùram againn mu chluich cothromach agus tèarainteachd chluicheadairean.",
+                "Bidh an sgioba luchd-obrach càirdeil againn a' dèanamh cinnteach gu bheil an t-eòlas agad sàbhailte agus spòrsail."
+            ]
+        },
+        "section5": {
+            "title": "Cluich a-nis!",
+            "content": "Thig a-steach don fhrithealaiche an-diugh.",
+            "button1": "Mar a thèid thu a-steach",
+            "button2": "Riaghailtean frithealaiche"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Còdan Fosgailte 💖",
+            "&",
+            "Ceadan 🛂"
+        ],
+        "scope": [
+            "Dealbhadh Làrach-lìn",
+            "Leabharlannan",
+            "Ìomhaighean",
+            "Vectaran"
+        ],
+        "usedin": "Air a chleachdadh ann an:"
     }
 }

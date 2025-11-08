@@ -5,5 +5,82 @@
             "en": "Friulian",
             "ingame": "Furlan (Friûl)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Cjase",
+            "rules": "Regulis",
+            "docs": "Documentazion",
+            "how2join": "Come Jontâsi",
+            "licenseandopensource": "Codis Viers e Licenzis"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Ducj i dirits risiervâts.",
+                "sakuralands": "© 2022-2025 SakuraLands. Ducj i dirits risiervâts."
+            },
+            "non-mojang": "NO UN PRODOT UFIZIÂL DI MINECRAFT. NO APROVÂT O ASSOCIÂT CUN MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Server di mini-zûcs in fase di svilup"
+        },
+        "module": {
+            "scroll_down": "Scôr jù"
+        },
+        "section1": {
+            "title": "Benvignûts in SakuraLands!",
+            "content": [
+                "Zûe cui amîs di dut il mont.",
+                "Jontit a mini-zûcs epics, aventuris e plui ancjemò!"
+            ]
+        },
+        "section2": {
+            "title": "Plui Lenghis!",
+            "content": [
+                "I zuiadôrs di dut il mont a son i benvignûts.",
+                "La nestre comunitât e sostignìs plui lenghis, cussì tu cjatarâs simpri amîs cui zuiâ."
+            ],
+            "warning": "* Alcunis peraulis a son stadis tradotlis de machine e no podedin jessi precis."
+        },
+        "section3": {
+            "title": "Tancj mini-zûcs!",
+            "content": [
+                "Goditi une varietât di mini-zûcs: parkour, skywars, bedwars, escape maze e plui.",
+                "Al è simpri cualchi gnûf di provâ!"
+            ]
+        },
+        "section4": {
+            "title": "Sigurêt!",
+            "content": [
+                "O tignìn al zûc leâl e a la sigurêt dai zuiadôrs.",
+                "La nestre squatre di staff a si impense di fâ in mût che la tô esperience e sedi sigure e divertente."
+            ]
+        },
+        "section5": {
+            "title": "Zûe Subit!",
+            "content": "Jontit al server vuê.",
+            "button1": "Come Jontâsi",
+            "button2": "Regulis dal Server"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Codis Viers 💖",
+            "&",
+            "Licenzis 🛂"
+        ],
+        "scope": [
+            "Design dal sît web",
+            "Librariis",
+            "Iconis",
+            "Vetôrs"
+        ],
+        "usedin": "Utilizât in:"
     }
 }

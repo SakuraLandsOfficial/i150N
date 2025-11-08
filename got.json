@@ -5,5 +5,82 @@
             "en": "Gothic",
             "ingame": "Gutrazda"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Haima",
+            "rules": "Ragins",
+            "docs": "Talzjan bōkōs",
+            "how2join": "Hvē sa gairnjan",
+            "licenseandopensource": "Uffrōhja frumista jah laubisōs"
+        },
+        "module": {
+            "menu": "MIÐJANI"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. All rights reserved.",
+                "sakuralands": "© 2022-2025 SakuraLands. All rights reserved."
+            },
+            "non-mojang": "NI IST UFFISJANS MINECRAFT VAIHRUS. NI GĀNŌS WIÞRŌ MOJANG AƕƕA GA-ƕINDANS WIÞRŌ IS."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Sē mini-spila vaihrus ist in ustauhtai"
+        },
+        "module": {
+            "scroll_down": "Skalkas uf-du-nīþan"
+        },
+        "section1": {
+            "title": "Wilkōmi at SakuraLands!",
+            "content": [
+                "Spilais miþ frijōndum af allaim manasēdīm.",
+                "Gairnjan at aipiskaim mini-spilam, at-ƕairƕjai jah mēra!"
+            ]
+        },
+        "section2": {
+            "title": "Managa razda!",
+            "content": [
+                "Spēlarōs af allaim manasēdīm sindōþa wilkōmans.",
+                "Uns garažda ga-ƕairþa ustaubida managa razda, swe allis ga-ƕindan frijōndōs miþ hve spilais."
+            ],
+            "warning": "* Suma waurda maskina-ƕahjōþa jah ni ƕōrƕan-ƕēra-galaihþōþa."
+        },
+        "section3": {
+            "title": "Managa mini-spila!",
+            "content": [
+                "Ga-ƕarjaiþ gēs managēna mini-spila: parkour, skywars, bedwars, at-ƕaiƕanā labürintus, jah mēra.",
+                "Þairōþs aiƕƕiƕas ƕa niujans ƕa ga-ƕainjan!"
+            ]
+        },
+        "section4": {
+            "title": "Frijōnjai!",
+            "content": [
+                "Uns at faīra ƕarja jah spēlara frijōnja.",
+                "Uns frija ƕarbs ga-ƕīƕs-ƕarbs gōdida at ƕō frijōnja jah faírōþa."
+            ]
+        },
+        "section5": {
+            "title": "Spilais nū!",
+            "content": "Gairnjan at vaihra ƕa-ƕēa.",
+            "button1": "Hvē sa gairnjan",
+            "button2": "Vaihra ragins"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Uffrōhja 💖",
+            "&",
+            "Laubisōs 🛂"
+        ],
+        "scope": [
+            "Webside ga-ƕīƕana",
+            "Bōka-staveis",
+            "Ga-ƕar-ƕī",
+            "Rētasōs"
+        ],
+        "usedin": "Ga-ƕair-ƕjōþa In:"
     }
 }

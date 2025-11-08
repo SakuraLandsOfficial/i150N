@@ -5,5 +5,82 @@
             "en": "Finnish",
             "ingame": "Suomi (Suomi)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Etusivu",
+            "rules": "Säännöt",
+            "docs": "Dokumentaatio",
+            "how2join": "Kuinka liittyä",
+            "licenseandopensource": "Avoin lähdekoodi & Lisenssit"
+        },
+        "module": {
+            "menu": "VALIKKO"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Kaikki oikeudet pidätetään.",
+                "sakuralands": "© 2022-2025 SakuraLands. Kaikki oikeudet pidätetään."
+            },
+            "non-mojang": "EI VIRALLINEN MINECRAFT-TUOTE. MOJANG EI OLE HYVÄKSYNYT TAI SIIHEN LIITTYVÄ."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Kehitteillä oleva minipeli serveri"
+        },
+        "module": {
+            "scroll_down": "Vieritä alas"
+        },
+        "section1": {
+            "title": "Tervetuloa SakuraLandsiin!",
+            "content": [
+                "Pelaa ystävien kanssa ympäri maailmaa.",
+                "Liity eeppisiin minipeleihin, seikkailuihin ja muuhun!"
+            ]
+        },
+        "section2": {
+            "title": "Monikielisyys!",
+            "content": [
+                "Pelaajat ympäri maailmaa ovat tervetulleita.",
+                "Yhteisömme tukee useita kieliä, joten löydät aina ystäviä, joiden kanssa pelata."
+            ],
+            "warning": "* Jotkin sanat ovat konekäännettyjä eivätkä välttämättä ole tarkkoja."
+        },
+        "section3": {
+            "title": "Monia minipelejä!",
+            "content": [
+                "Nauti monenlaisista minipeleistä: parkour, skywars, bedwars, escape maze ja paljon muuta.",
+                "Kokeiltavaa on aina!"
+            ]
+        },
+        "section4": {
+            "title": "Turvallisuus!",
+            "content": [
+                "Välitämme reilusta pelistä ja pelaajien turvallisuudesta.",
+                "Ystävällinen henkilökuntamme varmistaa, että kokemuksesi on turvallinen ja hauska."
+            ]
+        },
+        "section5": {
+            "title": "Pelaa nyt!",
+            "content": "Liity serverille jo tänään.",
+            "button1": "Kuinka liittyä",
+            "button2": "Palvelimen säännöt"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Avoin lähdekoodi 💖",
+            "&",
+            "Lisenssit 🛂"
+        ],
+        "scope": [
+            "Verkkosivun suunnittelu",
+            "Kirjastot",
+            "Kuvakkeet",
+            "Vektorikuvat"
+        ],
+        "usedin": "Käytetty kohteessa:"
     }
 }

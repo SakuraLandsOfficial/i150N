@@ -5,5 +5,82 @@
             "en": "Modern English minus borrowed words",
             "ingame": "Anglish (Oned Riches)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Hame",
+            "rules": "Rools",
+            "docs": "Writings",
+            "how2join": "Hou to Join",
+            "licenseandopensource": "Freewarks & Liefs"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. All rights kept.",
+                "sakuralands": "© 2022-2025 SakuraLands. All rights kept."
+            },
+            "non-mojang": "NET AN RIHT-WETEN MIINECRAFT WORK. NET WELL-THOUGHT OF BI ODER BOUND WIÞ MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-gamen server unner way"
+        },
+        "module": {
+            "scroll_down": "Scrol doun"
+        },
+        "section1": {
+            "title": "Welcum to SakuraLands!",
+            "content": [
+                "Plei wiþ freonds fram all ofer þe world.",
+                "Join epic minigames, ferðe and more!"
+            ]
+        },
+        "section2": {
+            "title": "Mani-Sprak!",
+            "content": [
+                "Pleiars fram all ofer þe world ar welcume.",
+                "Ur gemeinshipe holdeþ mani-sprak, so þou’ll aelweys find freonds to plei wiþ."
+            ],
+            "warning": "* Sum words ​​ar mechin overset and may net be riht."
+        },
+        "section3": {
+            "title": "Manig Gamen!",
+            "content": [
+                "Enjooi a wid wariet of gamen: parkour, skywars, bedwars, escape maze, and mor.",
+                "Þere’s aelweys sum þing niew to trie!"
+            ]
+        },
+        "section4": {
+            "title": "Saft!",
+            "content": [
+                "We kepe abowt fair plei and pleiar sekernes.",
+                "Ur freondlic stäff teem make sur your forbode is saft and fun."
+            ]
+        },
+        "section5": {
+            "title": "Plei Nou!",
+            "content": "Join þe server tidai.",
+            "button1": "Hou to Join",
+            "button2": "Server Rools"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Freewarks 💖",
+            "&",
+            "Liefs 🛂"
+        ],
+        "scope": [
+            "Webside Design",
+            "Bokeries",
+            "Iegns",
+            "Strengs"
+        ],
+        "usedin": "Used In:"
     }
 }

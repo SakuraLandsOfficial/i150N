@@ -5,5 +5,82 @@
             "en": "Catalan",
             "ingame": "Català (Catalunya)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Inici",
+            "rules": "Regles",
+            "docs": "Documentació",
+            "how2join": "Com unir-se",
+            "licenseandopensource": "Codi Obert i Llicències"
+        },
+        "module": {
+            "menu": "MENÚ"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Tots els drets reservats.",
+                "sakuralands": "© 2022-2025 SakuraLands. Tots els drets reservats."
+            },
+            "non-mojang": "NO ÉS UN PRODUCTE OFICIAL DE MINECRAFT. NO APROVAT NI ASSOCIAT AMB MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Servidor de minijocs en desenvolupament"
+        },
+        "module": {
+            "scroll_down": "Desplaceu-vos cap avall"
+        },
+        "section1": {
+            "title": "Benvingut a SakuraLands!",
+            "content": [
+                "Juga amb amics de tot el món.",
+                "Uneix-te a minijocs èpics, aventures i molt més!"
+            ]
+        },
+        "section2": {
+            "title": "Multilingüe!",
+            "content": [
+                "Jugadors de tot el món són benvinguts.",
+                "La nostra comunitat suporta múltiples idiomes, així que sempre trobaràs amics amb qui jugar."
+            ],
+            "warning": "* Algunes paraules estan traduïdes automàticament i potser no són exactes."
+        },
+        "section3": {
+            "title": "Molts minijocs!",
+            "content": [
+                "Gaudeix d'una àmplia varietat de minijocs: parkour, skywars, bedwars, laberint d'escapada, i més.",
+                "Sempre hi ha alguna cosa nova per provar!"
+            ]
+        },
+        "section4": {
+            "title": "Seguretat!",
+            "content": [
+                "Ens importa el joc net i la seguretat dels jugadors.",
+                "El nostre amable equip de personal s'assegura que la teva experiència sigui segura i divertida."
+            ]
+        },
+        "section5": {
+            "title": "Juga ara!",
+            "content": "Uneix-te al servidor avui.",
+            "button1": "Com unir-se",
+            "button2": "Regles del Servidor"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Codi obert 💖",
+            "&",
+            "Llicències 🛂"
+        ],
+        "scope": [
+            "Disseny Web",
+            "Biblioteques",
+            "Icones",
+            "Vectors"
+        ],
+        "usedin": "Usat a:"
     }
 }

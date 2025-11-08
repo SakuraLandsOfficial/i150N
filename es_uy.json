@@ -5,5 +5,82 @@
             "en": "Uruguayan Spanish",
             "ingame": "Español (Uruguay)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Inicio",
+            "rules": "Reglas",
+            "docs": "Documentación",
+            "how2join": "Cómo unirse",
+            "licenseandopensource": "Fuentes Abiertas y Licencias"
+        },
+        "module": {
+            "menu": "MENÚ"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Todos los derechos reservados.",
+                "sakuralands": "© 2022-2025 SakuraLands. Todos los derechos reservados."
+            },
+            "non-mojang": "NO ES UN PRODUCTO OFICIAL DE MINECRAFT. NO APROBADO NI ASOCIADO CON MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Servidor de minijuegos en desarrollo"
+        },
+        "module": {
+            "scroll_down": "Desplázate abajo"
+        },
+        "section1": {
+            "title": "¡Bienvenido a SakuraLands!",
+            "content": [
+                "Juega con amigos de todo el mundo.",
+                "¡Únete a minijuegos épicos, aventuras y mucho más!"
+            ]
+        },
+        "section2": {
+            "title": "¡Múltiples Idiomas!",
+            "content": [
+                "Jugadores de todo el mundo son bienvenidos.",
+                "Nuestra comunidad soporta múltiples idiomas, por lo que siempre encontrarás amigos con los que jugar."
+            ],
+            "warning": "* Algunas palabras están traducidas por máquina y pueden no ser precisas."
+        },
+        "section3": {
+            "title": "¡Muchos Minijuegos!",
+            "content": [
+                "Disfruta de una amplia variedad de minijuegos: parkour, SkyWars, BedWars, Escape the Maze y más.",
+                "¡Siempre hay algo nuevo que probar!"
+            ]
+        },
+        "section4": {
+            "title": "¡Seguridad!",
+            "content": [
+                "Nos preocupamos por el juego limpio y la seguridad de los jugadores.",
+                "Nuestro equipo de personal amigable se asegura de que tu experiencia sea segura y divertida."
+            ]
+        },
+        "section5": {
+            "title": "¡Juega Ahora!",
+            "content": "Únete al servidor hoy mismo.",
+            "button1": "Cómo unirse",
+            "button2": "Reglas"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Fuentes Abiertas 💖",
+            "&",
+            "Licencias 🛂"
+        ],
+        "scope": [
+            "Diseño web",
+            "Bibliotecas",
+            "Iconos",
+            "Vectores"
+        ],
+        "usedin": "Utilizado en:"
     }
 }

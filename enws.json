@@ -5,5 +5,82 @@
             "en": "Early Modern English",
             "ingame": "Shakespearean English (Kingdom of England)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "The Hame",
+            "rules": "Ye Rules",
+            "docs": "Documentation",
+            "how2join": "Hewe to Joine",
+            "licenseandopensource": "Opensources & Licenses"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. All rights reserved.",
+                "sakuralands": "© 2022-2025 SakuraLands. All rights reserved."
+            },
+            "non-mojang": "NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY NOR ASSOCIATED WITH MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "A Mini-game Server under Development"
+        },
+        "module": {
+            "scroll_down": "Scroll Anon"
+        },
+        "section1": {
+            "title": "Welcome to SakuraLands!",
+            "content": [
+                "Playeth with thy Friends from all o'er the Earth.",
+                "Joine epic Minigames, Adventure, and much more!"
+            ]
+        },
+        "section2": {
+            "title": "Many Tongues!",
+            "content": [
+                "Players from all the world are welcome.",
+                "Our Community supporteth sundry languages, so that thou shalt always find Friends to play with."
+            ],
+            "warning": "* Some words be machine translated and mayhap not precise."
+        },
+        "section3": {
+            "title": "A Multitude of Minigames!",
+            "content": [
+                "Enjoyeth a wide store of Minigames: Parkour, Skywars, Bedwars, Escape Maze, and more.",
+                "There is aye something new to assay!"
+            ]
+        },
+        "section4": {
+            "title": "On Safety!",
+            "content": [
+                "We care for fair Play and the Player's Security.",
+                "Our friendly Staff Team doth ensure thy experience be safe and full of mirth."
+            ]
+        },
+        "section5": {
+            "title": "Play Now!",
+            "content": "Joine the Server this very Day.",
+            "button1": "Hewe to Joine",
+            "button2": "Server Rules"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Opensources 💖",
+            "&",
+            "Licenses 🛂"
+        ],
+        "scope": [
+            "Webside Design",
+            "Libraries",
+            "Icons",
+            "Vectors"
+        ],
+        "usedin": "Used In:"
     }
 }

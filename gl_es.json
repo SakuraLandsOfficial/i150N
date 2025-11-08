@@ -5,5 +5,82 @@
             "en": "Galician",
             "ingame": "Galego (Galicia / Galiza)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Inicio",
+            "rules": "Regras",
+            "docs": "Documentación",
+            "how2join": "Como unirse",
+            "licenseandopensource": "Código aberto e licenzas"
+        },
+        "module": {
+            "menu": "MENÚ"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Todos os dereitos reservados.",
+                "sakuralands": "© 2022-2025 SakuraLands. Todos os dereitos reservados."
+            },
+            "non-mojang": "NON É UN PRODUTO OFICIAL DE MINECRAFT. NON APROBADO NIN ASOCIADO CON MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Servidor de minixogos en desenvolvemento"
+        },
+        "module": {
+            "scroll_down": "Desprácese cara abaixo"
+        },
+        "section1": {
+            "title": "Benvido a SakuraLands!",
+            "content": [
+                "Xoga con amigos de todo o mundo.",
+                "Únete a minixogos épicos, aventuras e moito máis!"
+            ]
+        },
+        "section2": {
+            "title": "Multilingüe!",
+            "content": [
+                "Os xogadores de todo o mundo son benvidos.",
+                "A nosa comunidade admite varios idiomas, polo que sempre atoparás amigos cos que xogar."
+            ],
+            "warning": "* Algunhas palabras están traducidas por máquina e poden non ser precisas."
+        },
+        "section3": {
+            "title": "Moitos Minixogos!",
+            "content": [
+                "Goza dunha gran variedade de minixogos: parkour, skywars, bedwars, labirinto de escape e moito máis.",
+                "Sempre hai algo novo que probar!"
+            ]
+        },
+        "section4": {
+            "title": "Seguridade!",
+            "content": [
+                "Preocupámonos polo xogo limpo e a seguridade dos xogadores.",
+                "O noso simpático equipo de persoal asegura que a túa experiencia sexa segura e divertida."
+            ]
+        },
+        "section5": {
+            "title": "Xoga agora!",
+            "content": "Únete ao servidor hoxe mesmo.",
+            "button1": "Como unirse",
+            "button2": "Regras do servidor"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Código aberto 💖",
+            "&",
+            "Licenzas 🛂"
+        ],
+        "scope": [
+            "Deseño da web",
+            "Bibliotecas",
+            "Iconas",
+            "Vectores"
+        ],
+        "usedin": "Usado en:"
     }
 }

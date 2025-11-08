@@ -5,5 +5,82 @@
             "en": "Manx",
             "ingame": "Gaelg (Mannin)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Ard-valley",
+            "rules": "Reilaghyn",
+            "docs": "Fysseree",
+            "how2join": "Quoi Nagh Vel Mish y Chosoylaghey",
+            "licenseandopensource": "Bun-Chooishyn Foslit & Lioaryn Oikyl"
+        },
+        "module": {
+            "menu": "CLAARE"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Keeadyn reihit.",
+                "sakuralands": "© 2022-2025 SakuraLands. Keeadyn reihit."
+            },
+            "non-mojang": "NAGH JINNEY MINECRAFT OIKYL. NAGH JINNEY LESHYN YN MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Server-chluichey Beg Fo Cosoylaghey"
+        },
+        "module": {
+            "scroll_down": "Rolley Sheese"
+        },
+        "section1": {
+            "title": "Failt dys SakuraLands!",
+            "content": [
+                "Cluich rish car-cheeaddyn voish y theihll er fad.",
+                "Immee stiagh ayns min-chluichyn ardjey, far-ghooghysyn as ny smoo!"
+            ]
+        },
+        "section2": {
+            "title": "Chooilley-Ghaelgagh!",
+            "content": [
+                "T'eh failt er cluicheyderyn voish y theihll er fad.",
+                "Ta pobbylaght cur rish cooilley-ghaelg, as bee shiu feddyn car-cheeaddyn rish cluich dy kinjagh."
+            ],
+            "warning": "* Ta cooyrtyn er-eayst lhieggit liorish jastan-lhieggee, as foddee nagh vel ad kiart."
+        },
+        "section3": {
+            "title": "Mooarane dy Vini-chluichyn!",
+            "content": [
+                "Jeeagh er y lhiurid voish mini-chluichyn: parkour, skywars, bedwars, faagyl-cooie, as ny smoo.",
+                "Ta red elley noa erriu dy kinjagh!"
+            ]
+        },
+        "section4": {
+            "title": "Shickyrys!",
+            "content": [
+                "Ta shin kiarail cluich-kiart as shickyrys cluicheyderyn.",
+                "Ta shin cur failt er sheshaght-obbree caarjoil dy choadey yn deneydys eu."
+            ]
+        },
+        "section5": {
+            "title": "Cluich Nish!",
+            "content": "Cosoylagh rish y server jiu.",
+            "button1": "Quoi Nagh Vel Mish y Chosoylaghey",
+            "button2": "Reilaghyn yn Server"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Bun-Chooishyn Foslit 💖",
+            "&",
+            "Lioaryn Oikyl 🛂"
+        ],
+        "scope": [
+            "Crootaght ynnyd-eggey",
+            "Lioaryn",
+            "Cowraghyn",
+            "Vectoryn"
+        ],
+        "usedin": "Ymmydit Ayns:"
     }
 }

@@ -5,5 +5,82 @@
             "en": "Hawaiian",
             "ingame": "'Ōlelo Hawai'i (Hawai'i)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Ka Papa Mua",
+            "rules": "Nā Kānāwai",
+            "docs": "Palapala Kūkulu",
+            "how2join": "Pehea e Komo ai",
+            "licenseandopensource": "Nā Kumuwaiwai Wehe & Nā Laikini"
+        },
+        "module": {
+            "menu": "KAHUA ʻAI"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Ua mālama ʻia nā kuleana a pau.",
+                "sakuralands": "© 2022-2025 SakuraLands. Ua mālama ʻia nā kuleana a pau."
+            },
+            "non-mojang": "ʻAʻOLE HE HUAHUA MINECRAFT KŪHELŪ. ʻAʻOLE I ʻĀPONO ʻIA E A I ʻOLE PILI PŪ ME MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Kikowaena minigame e hoʻomohala ʻia ana"
+        },
+        "module": {
+            "scroll_down": "E Kolo i Lalo"
+        },
+        "section1": {
+            "title": "Aloha e SakuraLands!",
+            "content": [
+                "E pāʻani pū me nā hoaaloha mai nā wahi like ʻole o ka honua.",
+                "E hui pū i nā minigames nui, nā huakaʻi, a me nā mea hou aku!"
+            ]
+        },
+        "section2": {
+            "title": "Nui nā ʻōlelo!",
+            "content": [
+                "Aloha mai nā mea pāʻani mai nā wahi a puni o ka honua.",
+                "Kākoʻo ko mākou kaiāulu i nā ʻōlelo he nui, no laila e loaʻa mau ana nā hoa e pāʻani pū ai."
+            ],
+            "warning": "* Ua unuhi ʻia kekahi mau huaʻōlelo e nā mīkini, no laila ʻaʻole pololei paha."
+        },
+        "section3": {
+            "title": "Nui nā Minigames!",
+            "content": [
+                "E ʻoliʻoli i nā minigames like ʻole: parkour, skywars, bedwars, escape maze, a me nā mea hou aku.",
+                "Aia nō kekahi mea hou e hoʻāʻo ai!"
+            ]
+        },
+        "section4": {
+            "title": "Palekana!",
+            "content": [
+                "Mālama mākou i ka pāʻani kūpono a me ka malu o nā mea pāʻani.",
+                "Hōʻoia ko mākou poʻe limahana lokomaikaʻi i ka palekana a me ka leʻaleʻa o kāu ʻike."
+            ]
+        },
+        "section5": {
+            "title": "E Pāʻani i kēia manawa!",
+            "content": "E komo i ke kikowaena i kēia lā.",
+            "button1": "Pehea e Komo ai",
+            "button2": "Nā Kānāwai Kikowaena"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Nā Kumuwaiwai Wehe 💖",
+            "&",
+            "Nā Laikini 🛂"
+        ],
+        "scope": [
+            "Hoʻolālā Pūnaewele",
+            "Nā Hale Waihona",
+            "Nā Kiʻi",
+            "Nā Vector"
+        ],
+        "usedin": "Hoʻohana ʻia ma:"
     }
 }

@@ -5,5 +5,82 @@
             "en": "Danish",
             "ingame": "Dansk (Danmark)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Hjem",
+            "rules": "Regler",
+            "docs": "Dokumentation",
+            "how2join": "Sådan deltager du",
+            "licenseandopensource": "Open Source & Licenser"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Alle rettigheder forbeholdes.",
+                "sakuralands": "© 2022-2025 SakuraLands. Alle rettigheder forbeholdes."
+            },
+            "non-mojang": "IKKE ET OFFICIELT MINECRAFT-PRODUKT. IKKE GODKENDT AF ELLER ASSOCIERET MED MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-spil server under udvikling"
+        },
+        "module": {
+            "scroll_down": "Rul ned"
+        },
+        "section1": {
+            "title": "Velkommen til SakuraLands!",
+            "content": [
+                "Spil med venner fra hele verden.",
+                "Deltag i episke minispil, eventyr og meget mere!"
+            ]
+        },
+        "section2": {
+            "title": "Flere sprog",
+            "content": [
+                "Spillere fra hele verden er velkomne.",
+                "Vores fællesskab understøtter flere sprog, så du vil altid finde venner at spille med."
+            ],
+            "warning": "* Nogle ord er maskinoversat og er muligvis ikke nøjagtige."
+        },
+        "section3": {
+            "title": "Mange minispil!",
+            "content": [
+                "Nyd et bredt udvalg af minispil: parkour, skywars, bedwars, escape maze og meget mere.",
+                "Der er altid noget nyt at prøve!"
+            ]
+        },
+        "section4": {
+            "title": "Sikkerhed!",
+            "content": [
+                "Vi bekymrer os om fair play og spillersikkerhed.",
+                "Vores venlige personale sørger for, at din oplevelse er sikker og sjov."
+            ]
+        },
+        "section5": {
+            "title": "Spil nu!",
+            "content": "Deltag i serveren i dag.",
+            "button1": "Sådan deltager du",
+            "button2": "Serverregler"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Open Source 💖",
+            "&",
+            "Licenser 🛂"
+        ],
+        "scope": [
+            "Websitedesign",
+            "Biblioteker",
+            "Ikoner",
+            "Vektorer"
+        ],
+        "usedin": "Brugt I:"
     }
 }

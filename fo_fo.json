@@ -5,5 +5,82 @@
             "en": "Faroese",
             "ingame": "Føroyskt (Føroyar)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Heim",
+            "rules": "Reglur",
+            "docs": "Skjøl",
+            "how2join": "Hvussu tú meldar teg til",
+            "licenseandopensource": "Opnar Keldur & Loyvir"
+        },
+        "module": {
+            "menu": "VALMYND"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Øll rættindi fyrivarð.",
+                "sakuralands": "© 2022-2025 SakuraLands. Øll rættindi fyrivarð."
+            },
+            "non-mojang": "IKKI EIN ALMENN MINECRAFT VØRA. IKKI GÓÐKEND AV ELLA Í SAMBANDI VIÐ MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-spæl servari undir menning"
+        },
+        "module": {
+            "scroll_down": "Rulla niður"
+        },
+        "section1": {
+            "title": "Vælkomnir til SakuraLands!",
+            "content": [
+                "Spæl við vinum úr øllum heiminum.",
+                "Meld teg til episk mini-spøl, ævintýr og meira!"
+            ]
+        },
+        "section2": {
+            "title": "Fleirmálsligt!",
+            "content": [
+                "Spælarar úr øllum heiminum eru vælkomnir.",
+                "Okkara felagsskapur stuðlar fleiri málum, so tú finnur altíð vinir at spæla við."
+            ],
+            "warning": "* Summi orð eru maskinellt umsett og eru kanska ikki røtt."
+        },
+        "section3": {
+            "title": "Nógv Mini-spøl!",
+            "content": [
+                "Njót eitt stórt úrval av mini-spølum: parkour, SkyWars, BedWars, escape maze, og meira.",
+                "Tað er altíð okkurt nýtt at royna!"
+            ]
+        },
+        "section4": {
+            "title": "Trygd!",
+            "content": [
+                "Vit hugsa um fair play og trygd hjá spælarum.",
+                "Okkara vinarliga starvsfólk tryggja at tín uppliving er trygg og stuttlig."
+            ]
+        },
+        "section5": {
+            "title": "Spæl Nú!",
+            "content": "Meld teg á servaran í dag.",
+            "button1": "Hvussu tú meldar teg til",
+            "button2": "Servarareglur"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Opnar Keldur 💖",
+            "&",
+            "Loyvir 🛂"
+        ],
+        "scope": [
+            "Heimasíðusnið",
+            "Bókasøvn",
+            "Ikonir",
+            "Vektorar"
+        ],
+        "usedin": "Brúkt í:"
     }
 }

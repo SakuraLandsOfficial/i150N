@@ -5,5 +5,82 @@
             "en": "Swiss German",
             "ingame": "Schwiizerdutsch (Schwiiz)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Home",
+            "rules": "Regle",
+            "docs": "Dokumentation",
+            "how2join": "Mitmachen",
+            "licenseandopensource": "Open Source & Lizenzen"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Alle Rechte vorbehalten.",
+                "sakuralands": "© 2022-2025 SakuraLands. Alle Rechte vorbehalten."
+            },
+            "non-mojang": "KEIN OFFIZIELLES MINECRAFT-PRODUKT. NICHT VON MOJANG GENEHMIGT ODER MIT MOJANG VERBUNDEN."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-Game Server in Entwicklung"
+        },
+        "module": {
+            "scroll_down": "Nach unten scrollen"
+        },
+        "section1": {
+            "title": "Willkommen bei SakuraLands!",
+            "content": [
+                "Spiel mit Freunden aus aller Welt.",
+                "Nimm an epischen Minispielen, Abenteuern und mehr teil!"
+            ]
+        },
+        "section2": {
+            "title": "Mehrsprachig!",
+            "content": [
+                "Spieler aus aller Welt sind willkommen.",
+                "Unsere Community unterstützt mehrere Sprachen, sodass du immer Freunde zum Spielen findest."
+            ],
+            "warning": "* Einige Wörter werden maschinell übersetzt und sind möglicherweise nicht genau."
+        },
+        "section3": {
+            "title": "Viele Minispiele!",
+            "content": [
+                "Genieße eine große Auswahl an Minispielen: Parkour, Skywars, Bedwars, Escape Maze und mehr.",
+                "Es gibt immer etwas Neues auszuprobieren!"
+            ]
+        },
+        "section4": {
+            "title": "Sicherheit!",
+            "content": [
+                "Wir kümmern uns um faires Spielen und die Sicherheit der Spieler.",
+                "Unser freundliches Team sorgt dafür, dass deine Erfahrung sicher und unterhaltsam ist."
+            ]
+        },
+        "section5": {
+            "title": "Jetzt spielen!",
+            "content": "Tritt dem Server noch heute bei.",
+            "button1": "Mitmachen",
+            "button2": "Serverregeln"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Open Source 💖",
+            "&",
+            "Lizenzen 🛂"
+        ],
+        "scope": [
+            "Webseiten Design",
+            "Bibliotheken",
+            "Icons",
+            "Vektoren"
+        ],
+        "usedin": "Verwendet in:"
     }
 }

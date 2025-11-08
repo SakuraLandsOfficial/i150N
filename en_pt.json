@@ -5,5 +5,82 @@
             "en": "Pirate English",
             "ingame": "Pirate Speak (The Seven Seas)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Ahoy, Mateys!",
+            "rules": "Rules o' the Sea",
+            "docs": "Walk the Plank",
+            "how2join": "How to Hoist the Colors",
+            "licenseandopensource": "The Booty o' Licenses & Open Source"
+        },
+        "module": {
+            "menu": "CHART"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. All rights reserved, savvy?",
+                "sakuralands": "© 2022-2025 SakuraLands. All rights reserved, ye scurvy dogs!"
+            },
+            "non-mojang": "NAY, NOT AN OFFICIAL MINECRAFT PRODUCT! NOT APPROVED BY OR ASSOCIATED WITH MOJANG, SHIVER ME TIMBERS!"
+        }
+    },
+    "index": {
+        "general": {
+            "description": "A mini-game server, under construction, savvy?"
+        },
+        "module": {
+            "scroll_down": "Scuttle Down the Riggin'!"
+        },
+        "section1": {
+            "title": "Ahoy! Welcome to SakuraLands!",
+            "content": [
+                "Play with yer mates from every corner o' the globe, ahoy!",
+                "Join epic mini-games, adventures, an' more, heave ho!"
+            ]
+        },
+        "section2": {
+            "title": "Many Tongues!",
+            "content": [
+                "All pirates from every port o' call be welcome!",
+                "Our crew speaks many tongues, so ye'll always find shipmates to plunder with!"
+            ],
+            "warning": "* Some words be machine-translated, an' may not be accurate, shiver me timbers!"
+        },
+        "section3": {
+            "title": "Many Mini-games!",
+            "content": [
+                "Enjoy a bounty o' mini-games: parkour, skywars, bedwars, escape maze, an' more, avast!",
+                "There be always somethin' new to try, arrr!"
+            ]
+        },
+        "section4": {
+            "title": "Safety!",
+            "content": [
+                "We care for fair play an' yer safety!",
+                "Our friendly staff team be lookin' out to make yer experience safe an' fun, aye!"
+            ]
+        },
+        "section5": {
+            "title": "Play Now, ye bilge rats!",
+            "content": "Join the server today, savvy?",
+            "button1": "How to Hoist the Colors",
+            "button2": "Rules o' the Sea"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Opensources, me hearties! 💖",
+            "&",
+            "Licenses, ahoy! 🛂"
+        ],
+        "scope": [
+            "Webside Design",
+            "Libraries",
+            "Icons",
+            "Vectors"
+        ],
+        "usedin": "Used In: Avast ye!"
     }
 }

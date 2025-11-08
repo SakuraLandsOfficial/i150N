@@ -5,5 +5,82 @@
             "en": "Canadian French",
             "ingame": "Français (Canada)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Accueil",
+            "rules": "Règles",
+            "docs": "Documentation",
+            "how2join": "Comment se joindre à nous",
+            "licenseandopensource": "Sources ouvertes et licences"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Tous droits réservés.",
+                "sakuralands": "© 2022-2025 SakuraLands. Tous droits réservés."
+            },
+            "non-mojang": "CECI N'EST PAS UN PRODUIT OFFICIEL DE MINECRAFT. NON APPROUVÉ PAR OU ASSOCIÉ À MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Serveur de mini-jeux en développement"
+        },
+        "module": {
+            "scroll_down": "Faire défiler vers le bas"
+        },
+        "section1": {
+            "title": "Bienvenue à SakuraLands !",
+            "content": [
+                "Jouez avec des amis du monde entier.",
+                "Rejoignez des mini-jeux épiques, des aventures et plus encore !"
+            ]
+        },
+        "section2": {
+            "title": "Multilingue !",
+            "content": [
+                "Les joueurs du monde entier sont les bienvenus.",
+                "Notre communauté prend en charge plusieurs langues, vous trouverez donc toujours des amis avec qui jouer."
+            ],
+            "warning": "* Certains mots sont traduits automatiquement et peuvent ne pas être exacts."
+        },
+        "section3": {
+            "title": "De nombreux mini-jeux !",
+            "content": [
+                "Profitez d'une grande variété de mini-jeux : parkour, skywars, bedwars, labyrinthe d'évasion, et plus encore.",
+                "Il y a toujours quelque chose de nouveau à essayer !"
+            ]
+        },
+        "section4": {
+            "title": "Sécurité !",
+            "content": [
+                "Nous nous soucions du jeu équitable et de la sécurité des joueurs.",
+                "Notre équipe de personnel amicale s'assure que votre expérience est sûre et amusante."
+            ]
+        },
+        "section5": {
+            "title": "Jouez maintenant !",
+            "content": "Rejoignez le serveur aujourd'hui.",
+            "button1": "Comment se joindre à nous",
+            "button2": "Règles du serveur"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Sources ouvertes 💖",
+            "&",
+            "Licences 🛂"
+        ],
+        "scope": [
+            "Conception de site Web",
+            "Bibliothèques",
+            "Icônes",
+            "Vecteurs"
+        ],
+        "usedin": "Utilisé dans :"
     }
 }

@@ -5,5 +5,82 @@
             "en": "Frisian",
             "ingame": "Frysk (Fryslân)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Thús",
+            "rules": "Regels",
+            "docs": "Dokumintaasje",
+            "how2join": "Hoe mei te dwaan",
+            "licenseandopensource": "Iepen boarne en lisinsjes"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Alle rjochten foarbehâlden.",
+                "sakuralands": "© 2022-2025 SakuraLands. Alle rjochten foarbehâlden."
+            },
+            "non-mojang": "NET IN OFFISJEEL MINECRAFT PRODUKT. NET GOEDKARRE EN NET ASSOSJEERD MEI MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-spieltsjinner yn ûntwikkeling"
+        },
+        "module": {
+            "scroll_down": "Rôlje omleech"
+        },
+        "section1": {
+            "title": "Wolkom by SakuraLands!",
+            "content": [
+                "Spielje mei freonen fan oer de hiele wrâld.",
+                "Doch mei oan epyske minigames, aventoeren en mear!"
+            ]
+        },
+        "section2": {
+            "title": "Meartalige Stipe!",
+            "content": [
+                "Spilers fan oer de hiele wrâld binne wolkom.",
+                "Us mienskip stipet meardere talen, dus jo sille altyd freonen fine om mei te spyljen."
+            ],
+            "warning": "* Guon wurden ​​binne masine oerset en kinne net sekuer wêze."
+        },
+        "section3": {
+            "title": "In protte Minigames!",
+            "content": [
+                "Genietsje fan in grutte ferskaat oan minigames: parkour, skywars, bedwars, ûntsnapping labyrint, en mear.",
+                "D'r is altyd wat nijs om te besykjen!"
+            ]
+        },
+        "section4": {
+            "title": "Feiligens!",
+            "content": [
+                "Wy soargje foar earlik spyljen en de feiligens fan spilers.",
+                "Us freonlike personielsteam soarget derfoar dat jo ûnderfining feilich en leuk is."
+            ]
+        },
+        "section5": {
+            "title": "Spielje No!",
+            "content": "Doch hjoed noch mei oan de tsjinner.",
+            "button1": "Hoe mei te dwaan",
+            "button2": "Tsjinnerregels"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Iepen boarne 💖",
+            "&",
+            "Lisinsjes 🛂"
+        ],
+        "scope": [
+            "Webside ûntwerp",
+            "Biblioteken",
+            "Ikoanen",
+            "Fektoren"
+        ],
+        "usedin": "Brûkt Yn:"
     }
 }

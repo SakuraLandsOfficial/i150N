@@ -5,5 +5,82 @@
             "en": "Canadian English",
             "ingame": "English (Canada)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Home",
+            "rules": "Rules",
+            "docs": "Documentation",
+            "how2join": "How to Join",
+            "licenseandopensource": "Opensources & Licenses"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. All rights reserved.",
+                "sakuralands": "© 2022-2025 SakuraLands. All rights reserved."
+            },
+            "non-mojang": "NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-game server under development"
+        },
+        "module": {
+            "scroll_down": "Scroll Down"
+        },
+        "section1": {
+            "title": "Welcome to SakuraLands!",
+            "content": [
+                "Play with friends from all over the world.",
+                "Join epic minigames, adventure and more!"
+            ]
+        },
+        "section2": {
+            "title": "Multi Language!",
+            "content": [
+                "Players from all over the world are welcome.",
+                "Our community supports multiple languages, so you’ll always find friends to play with."
+            ],
+            "warning": "* Some words are machine translated and may not be accurate."
+        },
+        "section3": {
+            "title": "Many Minigames!",
+            "content": [
+                "Enjoy a wide variety of minigames: parkour, skywars, bedwars, escape maze, and more.",
+                "There’s always something new to try!"
+            ]
+        },
+        "section4": {
+            "title": "Safety!",
+            "content": [
+                "We care about fair play and player security.",
+                "Our friendly staff team make sure your experience is safe and fun."
+            ]
+        },
+        "section5": {
+            "title": "Play Now!",
+            "content": "Join the server today.",
+            "button1": "How to Join",
+            "button2": "Server Rules"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Opensources 💖",
+            "&",
+            "Licenses 🛂"
+        ],
+        "scope": [
+            "Webside Design",
+            "Libraries",
+            "Icons",
+            "Vectors"
+        ],
+        "usedin": "Used In:"
     }
 }

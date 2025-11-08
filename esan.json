@@ -5,5 +5,82 @@
             "en": "Andalusian",
             "ingame": "Andalûh (Andaluçía)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Pahetta Pripaçipâ",
+            "rules": "Hêncas",
+            "docs": "Doxumentaçión",
+            "how2join": "¿Cómo enlazâ?",
+            "licenseandopensource": "Opensôrçes y Licencias"
+        },
+        "module": {
+            "menu": "MENÚ"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Tôos ôs dreitos reservaos.",
+                "sakuralands": "© 2022-2025 SakuraLands. Tôos ôs dreitos reservaos."
+            },
+            "non-mojang": "NO ES UN PRODUCTO OFICIÂ DE MINECRAFT. NO ESTÁ APRUBAO NI ASOCIAO CON MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Servío de minijuegos en desarrôyo"
+        },
+        "module": {
+            "scroll_down": "Echâ pabajô"
+        },
+        "section1": {
+            "title": "¡Bienvenío a SakuraLands!",
+            "content": [
+                "Chugâ con amigôs de tó el mundô.",
+                "¡Enganchâos a minijuegos épicos, aventuras y más!"
+            ]
+        },
+        "section2": {
+            "title": "¡¡Multilengua!!",
+            "content": [
+                "Los chugâores de tó el mundô son bienveníos.",
+                "Nuestra comunidá soporta múltiples lenguas, asín que siempri encontrarás amigôs pa chugâ."
+            ],
+            "warning": "* Ciertas parabras están traducías por mákina y puén no sel correhtas."
+        },
+        "section3": {
+            "title": "¡Muchos Minijuegos!",
+            "content": [
+                "Disfrutâ de una amplia varieá de minijuegos: parkour, skywars, bedwars, escape maze, y más.",
+                "¡Siempri hay algo nuebo pa probâ!"
+            ]
+        },
+        "section4": {
+            "title": "¡Seguridá!",
+            "content": [
+                "Nos preokupa el chuegô limpío y la seguridá de los chugâores.",
+                "Nuestru equipô simpáticô se asegûran de que tu esperiencia sea segura y divetía."
+            ]
+        },
+        "section5": {
+            "title": "¡Chugâ ya!",
+            "content": "¡Ajúntate âl servío oî!",
+            "button1": "¿Cómo enlazâ?",
+            "button2": "Hêncas"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Opensôrçes 💖",
+            "&",
+            "Licencias 🛂"
+        ],
+        "scope": [
+            "Diseño Web",
+            "Librerías",
+            "Íconos",
+            "Vehtôres"
+        ],
+        "usedin": "Usao en:"
     }
 }

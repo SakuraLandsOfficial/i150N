@@ -5,5 +5,82 @@
             "en": "Welsh",
             "ingame": "Cymraeg (Cymru)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Hafan",
+            "rules": "Rheolau",
+            "docs": "Dogfennaeth",
+            "how2join": "Sut i Ymuno",
+            "licenseandopensource": "Ffynonellau Agored a Thrwyddedau"
+        },
+        "module": {
+            "menu": "DEWISLEN"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Cedwir pob hawl.",
+                "sakuralands": "© 2022-2025 SakuraLands. Cedwir pob hawl."
+            },
+            "non-mojang": "NID CYNNYRCH MINECRAFT SWYDDOGOL. NID YW'N CAEL EI GYMERADWYO GAN NEU'N GYSYLLTIEDIG Â MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Gweinydd mini-gêm dan ddatblygiad"
+        },
+        "module": {
+            "scroll_down": "Sgroliwch i lawr"
+        },
+        "section1": {
+            "title": "Croeso i SakuraLands!",
+            "content": [
+                "Chwaraewch gyda ffrindiau o bob rhan o'r byd.",
+                "Ymunwch â mini-gemau epig, antur a mwy!"
+            ]
+        },
+        "section2": {
+            "title": "Aml-iaith!",
+            "content": [
+                "Mae croeso i chwaraewyr o bob rhan o'r byd.",
+                "Mae ein cymuned yn cefnogi sawl iaith, felly byddwch bob amser yn dod o hyd i ffrindiau i chwarae gyda nhw."
+            ],
+            "warning": "* Mae rhai geiriau wedi'u cyfieithu gan beiriant ac efallai nad ydynt yn gywir."
+        },
+        "section3": {
+            "title": "Llawer o Mini-gemau!",
+            "content": [
+                "Mwynhewch amrywiaeth eang o mini-gemau: parcwr, skywars, bedwars, dianc rhag y ddrysfa, a mwy.",
+                "Mae bob amser rhywbeth newydd i roi cynnig arno!"
+            ]
+        },
+        "section4": {
+            "title": "Diogelwch!",
+            "content": [
+                "Rydym yn poeni am chwarae teg a diogelwch chwaraewyr.",
+                "Mae ein tîm staff cyfeillgar yn sicrhau bod eich profiad yn ddiogel ac yn hwyl."
+            ]
+        },
+        "section5": {
+            "title": "Chwarae Nawr!",
+            "content": "Ymunwch â'r gweinydd heddiw.",
+            "button1": "Sut i Ymuno",
+            "button2": "Rheolau'r Gweinydd"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Ffynonellau Agored 💖",
+            "&",
+            "Trwyddedau 🛂"
+        ],
+        "scope": [
+            "Dylunio gwefan",
+            "Llyfrgelloedd",
+            "Eiconau",
+            "Fectorau"
+        ],
+        "usedin": "Defnyddir Yn:"
     }
 }

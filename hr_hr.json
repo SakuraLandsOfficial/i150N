@@ -5,5 +5,82 @@
             "en": "Croatian",
             "ingame": "Hrvatski (Hrvatska)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Početna",
+            "rules": "Pravila",
+            "docs": "Dokumentacija",
+            "how2join": "Kako se pridružiti",
+            "licenseandopensource": "Otvoreni izvor i licence"
+        },
+        "module": {
+            "menu": "IZBORNIK"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Sva prava pridržana.",
+                "sakuralands": "© 2022-2025 SakuraLands. Sva prava pridržana."
+            },
+            "non-mojang": "NIJE SLUŽBENI MINECRAFT PROIZVOD. NIJE ODOBREN OD STRANE TVRTKE MOJANG NITI JE S NJOM POVEZAN."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Poslužitelj mini-igara u razvoju"
+        },
+        "module": {
+            "scroll_down": "Skrolujte dolje"
+        },
+        "section1": {
+            "title": "Dobrodošli u SakuraLands!",
+            "content": [
+                "Igrajte se s prijateljima iz cijelog svijeta.",
+                "Pridružite se epskim mini-igrama, avanturama i još mnogo toga!"
+            ]
+        },
+        "section2": {
+            "title": "Više jezika!",
+            "content": [
+                "Igrači iz cijelog svijeta su dobrodošli.",
+                "Naša zajednica podržava više jezika, tako da ćete uvijek pronaći prijatelje za igru."
+            ],
+            "warning": "* Neke riječi su strojno prevedene i možda nisu točne."
+        },
+        "section3": {
+            "title": "Mnoge mini-igre!",
+            "content": [
+                "Uživajte u širokoj paleti mini-igara: parkour, SkyWars, BedWars, Escape Maze i još mnogo toga.",
+                "Uvijek postoji nešto novo za isprobati!"
+            ]
+        },
+        "section4": {
+            "title": "Sigurnost!",
+            "content": [
+                "Brinemo o poštenoj igri i sigurnosti igrača.",
+                "Naš prijateljski tim osoblja osigurava da je vaše iskustvo sigurno i zabavno."
+            ]
+        },
+        "section5": {
+            "title": "Igrajte sada!",
+            "content": "Pridružite se poslužitelju već danas.",
+            "button1": "Kako se pridružiti",
+            "button2": "Pravila poslužitelja"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Otvoreni izvor 💖",
+            "&",
+            "Licence 🛂"
+        ],
+        "scope": [
+            "Dizajn web-stranice",
+            "Biblioteke",
+            "Ikone",
+            "Vektori"
+        ],
+        "usedin": "Koristi se u:"
     }
 }

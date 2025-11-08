@@ -5,5 +5,82 @@
             "en": "Upside down British English",
             "ingame": "ɥsᴉꞁᵷuƎ (uʍoᗡ ǝpᴉsd∩)"
         }
+    },
+    "general": {
+        "name": "spuɐꞁɐɹnʞɐS",
+        "pages": {
+            "home": "ǝɯoH",
+            "rules": "sǝꞁnᴚ",
+            "docs": "uoᴉʇɐʇuǝɯnɔoᗡ",
+            "how2join": "uᴉoſ oʇ ʍoH",
+            "licenseandopensource": "sǝsuǝɔᴉꞁ ⅋ sǝɔɹnosuǝdo"
+        },
+        "module": {
+            "menu": "∩NƎW"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "˙pǝʌɹǝsǝɹ sʇɥƃᴉɹ ꞁꞁ∀ ˙ʌǝpꞁoꞁox∀ Sᄅ-ㄣᄅ0ᄅ ©",
+                "sakuralands": "˙pǝʌɹǝsǝɹ sʇɥƃᴉɹ ꞁꞁ∀ ˙spuɐꞁɐɹnʞɐS Sᄅ-ᄅᄅ0ᄅ ©"
+            },
+            "non-mojang": "˙ſɐſow ɥʇᴉʍ pǝʇɐᴉɔoss∀ ɹo q pǝʌoɹdd∀ ʇoN ˙ʇɔnpoɹԀ ʇɟɐɹɔǝuᴉW ꞁɐᴉɔᴉɟɟO u∀ ʇoN"
+        }
+    },
+    "index": {
+        "general": {
+            "description": "ʇuǝɯdoꞁǝʌǝp ɹǝpun ɹǝʌɹǝs ǝɯɐƃ-ᴉuᴉW"
+        },
+        "module": {
+            "scroll_down": "uʍoᗡ ꞁꞁoɹɔS"
+        },
+        "section1": {
+            "title": "¡spuɐꞁɐɹnʞɐS oʇ ǝɯoɔꞁǝM",
+            "content": [
+                "˙pꞁɹoʍ ǝɥʇ ɹǝʌo ꞁꞁɐ ɯoɹɟ spuǝᴉɹɟ ɥʇᴉʍ ʎɐꞁԀ",
+                "¡ǝɹoɯ puɐ ǝɹnʇuǝʌpɐ 'sǝɯɐƃᴉuᴉɯ ɔᴉdǝ uᴉoſ"
+            ]
+        },
+        "section2": {
+            "title": "¡ǝƃɐnƃuɐꞁ ᴉʇꞁnW",
+            "content": [
+                "˙ǝɯoɔꞁǝʍ ǝɹɐ pꞁɹoʍ ǝɥʇ ɹǝʌo ꞁꞁɐ ɯoɹɟ sɹǝʎɐꞁԀ",
+                "˙ɥʇᴉʍ ʎɐꞁd oʇ spuǝᴉɹɟ puᴉɟ sʎɐʍꞁɐ ꞁꞁ’noʎ os 'sǝƃɐnƃuɐꞁ ǝꞁdᴉʇꞁnɯ sʇɹoddns ʎʇᴉunɯɯoɔ ɹnO"
+            ],
+            "warning": "˙ǝʇɐɹnɔɔɐ ǝq ʇou ʎɐɯ puɐ pǝʇɐꞁsuɐɹʇ ǝuᴉɥɔɐɯ ǝɹɐ sɔʇou pǝʇɐꞁǝɹ * sʇuǝɯǝꞁǝ ǝmos *"
+        },
+        "section3": {
+            "title": "¡sǝɯɐƃᴉuᴉW ʎuɐW",
+            "content": [
+                "˙ǝɹoɯ puɐ 'ǝzɐɯ ǝdɐɔsǝ 'sɹɐʍpǝq 'sɹɐʍʎʞs 'ɹnoʞɹɐd :sǝɯɐƃᴉuᴉɯ ɟo ʎʇǝᴉɹɐʌ ǝpᴉʍ ɐ ʎoſuƎ",
+                "¡ʎɹʇ oʇ ʍǝu ƃuᴉɥʇǝɯos sʎɐʍꞁɐ s’ǝɹǝɥʇ"
+            ]
+        },
+        "section4": {
+            "title": "¡ʎʇǝɟɐS",
+            "content": [
+                "˙ʎʇᴉɹnɔǝs ɹǝʎɐꞁd puɐ ʎɐꞁd ɹᴉɐɟ ʇnoqɐ ǝɹɐɔ ǝM",
+                "˙unɟ puɐ ǝɟɐs sᴉ ǝɔuǝᴉɹǝdxǝ ɹnoʎ ǝɹns ǝʞɐɯ ɯɐǝʇ ɟɟɐʇs ʎꞁpuǝᴉɹɟ ɹnO"
+            ]
+        },
+        "section5": {
+            "title": "¡ʍoN ʎɐꞁԀ",
+            "content": "˙ʎɐpoʇ ɹǝʌɹǝs ǝɥʇ uᴉoſ",
+            "button1": "uᴉoſ oʇ ʍoH",
+            "button2": "sǝꞁnᴚ ɹǝʌɹǝS"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "💖 sǝɔɹnosuǝdo",
+            "⅋",
+            "🛂 sǝsuǝɔᴉꞁ"
+        ],
+        "scope": [
+            "uƃᴉsǝᗡ ǝpᴉsqǝM",
+            "sǝᴉɹɐɹqᴉꞁ",
+            "suoɔI",
+            "sɹoʇɔǝΛ"
+        ],
+        "usedin": ":uI pǝsn"
     }
 }

@@ -5,5 +5,82 @@
             "en": "Czech",
             "ingame": "Čeština (Česko)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Domů",
+            "rules": "Pravidla",
+            "docs": "Dokumentace",
+            "how2join": "Jak se připojit",
+            "licenseandopensource": "Open source & Licence"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Všechna práva vyhrazena.",
+                "sakuralands": "© 2022-2025 SakuraLands. Všechna práva vyhrazena."
+            },
+            "non-mojang": "NENÍ OFICIÁLNÍ PRODUKTEM MINECRAFTU. NENÍ SCHVÁLENO SPOLEČNOSTÍ MOJANG ANI S NÍ SPOJENO."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-herní server ve vývoji"
+        },
+        "module": {
+            "scroll_down": "Posun dolů"
+        },
+        "section1": {
+            "title": "Vítejte v SakuraLands!",
+            "content": [
+                "Hrajte s přáteli z celého světa.",
+                "Připojte se k epickým minihrám, dobrodružstvím a dalším!"
+            ]
+        },
+        "section2": {
+            "title": "Vícejazyčnost!",
+            "content": [
+                "Hráči z celého světa jsou vítáni.",
+                "Naše komunita podporuje více jazyků, takže vždy najdete přátele ke hře."
+            ],
+            "warning": "* Některá slova jsou strojově přeložena a nemusí být přesná."
+        },
+        "section3": {
+            "title": "Mnoho Miniher!",
+            "content": [
+                "Užijte si širokou škálu minihier: parkour, skywars, bedwars, únikový labyrint a další.",
+                "Vždy je co nového zkusit!"
+            ]
+        },
+        "section4": {
+            "title": "Bezpečnost!",
+            "content": [
+                "Záleží nám na spravedlivé hře a bezpečnosti hráčů.",
+                "Náš přátelský tým se stará o to, aby vaše zkušenost byla bezpečná a zábavná."
+            ]
+        },
+        "section5": {
+            "title": "Hrajte hned!",
+            "content": "Připojte se k serveru ještě dnes.",
+            "button1": "Jak se připojit",
+            "button2": "Pravidla serveru"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Open source 💖",
+            "&",
+            "Licence 🛂"
+        ],
+        "scope": [
+            "Návrh webu",
+            "Knihovny",
+            "Ikony",
+            "Vektory"
+        ],
+        "usedin": "Použito v:"
     }
 }

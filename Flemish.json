@@ -5,5 +5,82 @@
             "en": "Dutch",
             "ingame": "Vlaams (België)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Home",
+            "rules": "Regels",
+            "docs": "Documentatie",
+            "how2join": "Hoe lid worden",
+            "licenseandopensource": "Open Source & Licenties"
+        },
+        "module": {
+            "menu": "MENU"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Alle rechten voorbehouden.",
+                "sakuralands": "© 2022-2025 SakuraLands. Alle rechten voorbehouden."
+            },
+            "non-mojang": "GEEN OFFICIEEL MINECRAFT-PRODUCT. NIET GOEDGEKEURD DOOR OF GEASSOCIEERD MET MOJANG."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Mini-gameserver in ontwikkeling"
+        },
+        "module": {
+            "scroll_down": "Scroll omlaag"
+        },
+        "section1": {
+            "title": "Welkom bij SakuraLands!",
+            "content": [
+                "Speel met vrienden van over de hele wereld.",
+                "Doe mee aan epische minigames, avonturen en meer!"
+            ]
+        },
+        "section2": {
+            "title": "Meertalig!",
+            "content": [
+                "Spelers van over de hele wereld zijn welkom.",
+                "Onze community ondersteunt meerdere talen, zodat je altijd vrienden vindt om mee te spelen."
+            ],
+            "warning": "* Sommige woorden zijn machinaal vertaald en zijn mogelijk niet nauwkeurig."
+        },
+        "section3": {
+            "title": "Veel minigames!",
+            "content": [
+                "Geniet van een breed scala aan minigames: parkour, Skywars, Bedwars, ontsnappingsdoolhof en meer.",
+                "Er is altijd iets nieuws om te proberen!"
+            ]
+        },
+        "section4": {
+            "title": "Veiligheid!",
+            "content": [
+                "Wij geven om eerlijk spelen en de veiligheid van spelers.",
+                "Ons vriendelijke personeelsteam zorgt ervoor dat je ervaring veilig en leuk is."
+            ]
+        },
+        "section5": {
+            "title": "Speel nu!",
+            "content": "Word vandaag nog lid van de server.",
+            "button1": "Hoe lid worden",
+            "button2": "Serverregels"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Open Source 💖",
+            "&",
+            "Licenties 🛂"
+        ],
+        "scope": [
+            "Websitedesign",
+            "Bibliotheken",
+            "Iconen",
+            "Vectoren"
+        ],
+        "usedin": "Gebruikt in:"
     }
 }

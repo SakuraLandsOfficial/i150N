@@ -5,5 +5,82 @@
             "en": "Estonian",
             "ingame": "Eesti (Eesti)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Avaleht",
+            "rules": "Reeglid",
+            "docs": "Dokumentatsioon",
+            "how2join": "Kuidas liituda",
+            "licenseandopensource": "Avatud lähtekood ja litsentsid"
+        },
+        "module": {
+            "menu": "MENÜÜ"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Kõik õigused kaitstud.",
+                "sakuralands": "© 2022-2025 SakuraLands. Kõik õigused kaitstud."
+            },
+            "non-mojang": "EI OLE AMETLIK MINECRAFTI TOODE. EI OLE MOJANGI POOLT KINNITATUD EGA SELLEGA SEOTUD."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Arendamisel olev minigame server"
+        },
+        "module": {
+            "scroll_down": "Kerige alla"
+        },
+        "section1": {
+            "title": "Tere tulemast SakuraLandsi!",
+            "content": [
+                "Mängige sõpradega üle kogu maailma.",
+                "Liituge eepiliste minigamede, seikluste ja paljude muude asjadega!"
+            ]
+        },
+        "section2": {
+            "title": "Mitme keele tugi!",
+            "content": [
+                "Mängijad üle kogu maailma on oodatud.",
+                "Meie kogukond toetab mitut keelt, nii et leiate alati sõpru, kellega mängida."
+            ],
+            "warning": "* Mõned sõnad on masintõlgitud ja ei pruugi olla täpsed."
+        },
+        "section3": {
+            "title": "Palju minigame'e!",
+            "content": [
+                "Nautige laia valikut minigame'e: parkuur, skywars, bedwars, põgenemislabürint ja palju muud.",
+                "Alati on midagi uut proovida!"
+            ]
+        },
+        "section4": {
+            "title": "Turvalisus!",
+            "content": [
+                "Me hoolime ausast mängust ja mängijate turvalisusest.",
+                "Meie sõbralik töötajaskond tagab, et teie kogemus on turvaline ja lõbus."
+            ]
+        },
+        "section5": {
+            "title": "Mängi kohe!",
+            "content": "Liituge serveriga juba täna.",
+            "button1": "Kuidas liituda",
+            "button2": "Serveri reeglid"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Avatud lähtekood 💖",
+            "&",
+            "Litsentsid 🛂"
+        ],
+        "scope": [
+            "Veebisaidi disain",
+            "Teegid",
+            "Ikoonid",
+            "Vektorid"
+        ],
+        "usedin": "Kasutatud:"
     }
 }

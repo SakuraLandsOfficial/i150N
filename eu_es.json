@@ -5,5 +5,82 @@
             "en": "Basque",
             "ingame": "Euskara (Euskal Herria)"
         }
+    },
+    "general": {
+        "name": "SakuraLands",
+        "pages": {
+            "home": "Hasiera",
+            "rules": "Araudia",
+            "docs": "Dokumentazioa",
+            "how2join": "Nola sartu",
+            "licenseandopensource": "Iturburu Irekiak eta Lizentziak"
+        },
+        "module": {
+            "menu": "MENUA"
+        },
+        "footer": {
+            "copyright": {
+                "axolotdev": "© 2024-2025 AxolotlDev. Eskubide guztiak erreserbatuta.",
+                "sakuralands": "© 2022-2025 SakuraLands. Eskubide guztiak erreserbatuta."
+            },
+            "non-mojang": "EZ DA MINECRAFT PRODUKTU OFIZIALA. EZ DU MOJANG-ek ONARTUTA EDO HAREKIN LOTUTA."
+        }
+    },
+    "index": {
+        "general": {
+            "description": "Garapen fasean dagoen minijoko zerbitzaria"
+        },
+        "module": {
+            "scroll_down": "Joan behera"
+        },
+        "section1": {
+            "title": "Ongi etorri SakuraLands-era!",
+            "content": [
+                "Munduko lagunekin jolastu.",
+                "Sartu minijoko epikoetan, abenturatan eta gehiagotan!"
+            ]
+        },
+        "section2": {
+            "title": "Hizkuntza anitza!",
+            "content": [
+                "Mundu osoko jokalariak ongi etorriak dira.",
+                "Gure komunitateak hainbat hizkuntza onartzen ditu, beraz, beti aurkituko dituzu jolasteko lagunak."
+            ],
+            "warning": "* Baliteke hitz batzuk makinak itzultzea eta zehatzak ez izatea."
+        },
+        "section3": {
+            "title": "Minijoko asko!",
+            "content": [
+                "Gozatu minijokoen barietate zabalaz: parkour, skywars, bedwars, ihes-labirintoa eta gehiago.",
+                "Beti dago zerbait berria probatzeko!"
+            ]
+        },
+        "section4": {
+            "title": "Segurtasuna!",
+            "content": [
+                "Joko garbia eta jokalarien segurtasuna zaintzen dugu.",
+                "Gure langile talde atseginak zure esperientzia segurua eta dibertigarria dela ziurtatzen du."
+            ]
+        },
+        "section5": {
+            "title": "Jolastu orain!",
+            "content": "Sartu zerbitzarian gaur.",
+            "button1": "Nola sartu",
+            "button2": "Zerbitzariaren arauak"
+        }
+    },
+    "licenseandopensource": {
+        "title": [
+            "Iturburu Irekiak 💖",
+            "&",
+            "Lizentziak 🛂"
+        ],
+        "scope": [
+            "Webgunearen diseinua",
+            "Liburutegiak",
+            "Ikurrak",
+            "Bektoreak"
+        ],
+        "usedin": "Erabilia:"
     }
 }
