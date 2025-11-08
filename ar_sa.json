@@ -7,7 +7,7 @@
         }
     },
     "general": {
-        "name": "SakuraLands",
+        "name": "\u2068SakuraLands\u2069",
         "pages": {
             "home": "الصفحة الرئيسية",
             "rules": "قواعد الخادم",
@@ -20,21 +20,21 @@
         },
         "footer": {
             "copyright": {
-                "axolotdev": "© 2024-2025 AxolotlDev. جميع الحقوق محفوظة.",
-                "sakuralands": "© 2022-2025 SakuraLands. جميع الحقوق محفوظة."
+                "axolotdev": "© 2024-2025 \u2068AxolotlDev\u2069. جميع الحقوق محفوظة.",
+                "sakuralands": "© 2022-2025 \u2068SakuraLands\u2069. جميع الحقوق محفوظة."
             },
-            "non-mojang": "منتج غير رسمي لـ Minecraft. غير معتمد من Mojang أو مرتبط بها."
+            "non-mojang": "منتج غير رسمي لـ \u2068Minecraft\u2069. غير معتمد من \u2068Mojang\u2069 أو مرتبط بها."
         }
     },
     "index": {
         "general": {
-            "description": "خادم ألعاب مصغرة لـ Minecraft قيد التطوير."
+            "description": "خادم ألعاب مصغرة لـ \u2068Minecraft\u2069 قيد التطوير."
         },
         "module": {
             "scroll_down": "التمرير للأسفل"
         },
         "section1": {
-            "title": "مرحباً بكم في SakuraLands!",
+            "title": "مرحباً بكم في \u2068SakuraLands\u2069!",
             "content": [
                 "العب مع أصدقاء من جميع أنحاء العالم.",
                 "انضم إلى ألعاب مصغرة ملحمية ومغامرات والمزيد!"
@@ -64,7 +64,7 @@
         },
         "section5": {
             "title": "ابدأ اللعب الآن!",
-            "content": "انضم إلينا واستمتع بSakuraLands!",
+            "content": "انضم إلينا واستمتع ب\u2068SakuraLands\u2069!",
             "button1": "كيفية الانضمام",
             "button2": "قواعد الخادم"
         }

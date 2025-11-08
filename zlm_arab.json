@@ -7,7 +7,7 @@
         }
     },
     "general": {
-        "name": "SakuraLands",
+        "name": "\u2068SakuraLands\u2069",
         "pages": {
             "home": "هلامن اوتام",
             "rules": "ڤراطورن سرفير",
@@ -20,21 +20,21 @@
         },
         "footer": {
             "copyright": {
-                "axolotdev": "© 2024-2025 AxolotlDev. سموا حق اداله ترفليهارا.",
-                "sakuralands": "© 2022-2025 SakuraLands. سموا حق اداله ترفليهارا."
+                "axolotdev": "© 2024-2025 \u2068AxolotlDev\u2069. سموا حق اداله ترفليهارا.",
+                "sakuralands": "© 2022-2025 \u2068SakuraLands\u2069. سموا حق اداله ترفليهارا."
             },
-            "non-mojang": "بوكن ڤروڬ منت Minecraft رسمي. تيدق ددوكوڠ اتاو برکاءيتن دڠن مويڠ."
+            "non-mojang": "بوكن ڤروڬ منت \u2068Minecraft\u2069 رسمي. تيدق ددوكوڠ اتاو برکاءيتن دڠن \u2068Mojang\u2069."
         }
     },
     "index": {
         "general": {
-            "description": "سرفير مينى ڬيم Minecraft يڠ سدڠ دالم ڤمباڠونن."
+            "description": "سرفير مينى ڬيم \u2068Minecraft\u2069 يڠ سدڠ دالم ڤمباڠونن."
         },
         "module": {
             "scroll_down": "ڬولق باوه"
         },
         "section1": {
-            "title": "سلامت داتڠ ك SakuraLands!",
+            "title": "سلامت داتڠ ك \u2068SakuraLands\u2069!",
             "content": [
                 "برمين دڠن كاوان دري سلوروه دنيا.",
                 "سرتاي مينى ڬيم اڤيك، ڤتروانڠن، دان باڽق لاڬي!"
@@ -64,7 +64,7 @@
         },
         "section5": {
             "title": "مولاي برمين سکرڠ!",
-            "content": "سرتاي کامي دان لڠکوهکن کڬمبيران SakuraLands!",
+            "content": "سرتاي کامي دان لڠکوهکن کڬمبيران \u2068SakuraLands\u2069!",
             "button1": "چارا برڬبوڠ",
             "button2": "ڤراطورن سرفير"
         }
